@@ -193,3 +193,15 @@ h1, h2, h3 { letter-spacing: -.045em; }
   .hero-image img { height: 260px; object-position: right center; }
 }
 
+
+/* Selected workshop photographs; preserve complete repair scenes. */
+.case-photo { float:right; width:44%; margin:0 0 24px 32px; }
+.case-photo img { display:block; width:100%; height:auto; border-radius:4px; }
+.case-battery::after { content:""; display:block; clear:both; }
+.workshop-photos { display:grid; grid-template-columns:1.35fr 1fr; gap:32px; margin-top:44px; align-items:start; }
+.workshop-photos img { display:block; width:100%; height:auto; border-radius:4px; }
+.workshop-photos figcaption { padding-top:20px; }
+.workshop-photos h3 { font-size:1.25rem; margin-bottom:10px; }
+.workshop-photos p { color:var(--muted); }
+.workshop-photos a:focus-visible, .case-photo a:focus-visible { outline:3px solid #40566d; outline-offset:5px; }
+@media(max-width:700px) { .case-photo { float:none; width:100%; margin:0 0 24px; } .workshop-photos { grid-template-columns:1fr; gap:32px; } }
