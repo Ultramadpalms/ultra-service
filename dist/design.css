@@ -237,3 +237,4 @@ h1, h2, h3 { letter-spacing: -.045em; }
   .mobile-actions small { font-size:.75rem; }
   .footer { padding-bottom:calc(110px + env(safe-area-inset-bottom)); }
 }
+@media(max-width:600px) { .hero .mobile-confidence p { color:#d2d7dc; } }
