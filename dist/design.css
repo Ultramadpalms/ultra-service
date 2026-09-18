@@ -281,3 +281,11 @@ h1, h2, h3 { letter-spacing: -.045em; }
   .contact-map-grid { grid-template-columns:1fr; gap:28px; }
   .contact-map iframe { height:360px; }
 }
+/* Highlight scheduled maintenance without adding copy. */
+#maintenance { background:#17232f; color:#fff; border-block:1px solid #344b60; }
+#maintenance h2 { color:#fff; }
+#maintenance p { color:#d7e1eb; }
+#maintenance .maintenance-compact > div { border-left:4px solid #c8d4e0; padding-left:24px; }
+#maintenance .button { background:#dce7f0; color:#111519; border:1px solid #dce7f0; }
+#maintenance .button:hover { background:#fff; border-color:#fff; }
+#videos .eyebrow { text-transform:none; }
