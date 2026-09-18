@@ -31,6 +31,9 @@ for (const item of videoItems) {
   card.className = 'video-card';
   const heading = document.createElement('h3');
   heading.textContent = item.title;
+  const duration = document.createElement('p');
+  duration.className = 'video-duration';
+  duration.textContent = item.duration ? `Видео · ${item.duration}` : 'Видео из мастерской';
   const video = document.createElement('video');
   video.controls = true;
   video.playsInline = true;
@@ -54,7 +57,10 @@ for (const item of videoItems) {
       if (other !== video) other.pause();
     });
   });
-  card.append(video, heading, error);
+  const description = document.createElement("p");
+  description.className = "video-description";
+  description.textContent = item.description || "";
+  card.append(video, duration, heading, description, error);
   videoGrid?.append(card);
 }
 if (videoGrid?.children.length) videoSection.hidden = false;
