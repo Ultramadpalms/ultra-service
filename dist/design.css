@@ -245,3 +245,18 @@ h1, h2, h3 { letter-spacing: -.045em; }
 @media(max-width:600px) { .video-swipe { display:block; font-size:.85rem; margin:0 0 16px; } .video-card video { max-height:65svh; } .video-card h3 { letter-spacing:-.02em; } }
 @media(min-width:901px) and (max-width:1350px) { .header nav { gap:11px; font-size:.8rem; } }
 .video-duration { margin-top:14px; font-size:.8rem; color:var(--muted); } .video-card .video-duration + h3 { margin-top:6px; }
+
+/* Compact supporting sections, with natural wrapping on mobile. */
+.compact-section { padding-top:40px; padding-bottom:40px; }
+.maintenance-compact { display:flex; align-items:center; justify-content:space-between; gap:24px; }
+.maintenance-compact p { max-width:660px; margin:12px 0 0; }
+.maintenance-compact .button { flex-shrink:0; }
+.process-line { font-size:1.125rem; line-height:1.8; margin:16px 0 0; }
+.process-line span { display:inline-block; }
+#about .workshop-photos { margin-top:28px; }
+#about .workshop-photos figcaption { padding-top:12px; color:var(--muted); font-size:1rem; }
+@media(max-width:700px) {
+  .maintenance-compact { flex-direction:column; align-items:flex-start; gap:20px; }
+  .compact-section { padding-top:28px; padding-bottom:28px; }
+  .process-line { font-size:1rem; }
+}
