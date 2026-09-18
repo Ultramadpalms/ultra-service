@@ -289,3 +289,4 @@ h1, h2, h3 { letter-spacing: -.045em; }
 #maintenance .button { background:#dce7f0; color:#111519; border:1px solid #dce7f0; }
 #maintenance .button:hover { background:#fff; border-color:#fff; }
 #videos .eyebrow { text-transform:none; }
+.brand-icon { background:#000; color:#fff; }
