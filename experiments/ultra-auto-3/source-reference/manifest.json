@@ -1,0 +1,165 @@
+{
+  "date": "2026-10-19",
+  "repositoryBase": "95d40bd45826a8cf15ca8679db50627988d2666e",
+  "templateSource": "existing 2026-09-28 chat / work/production-wave1/rehearsal/site/templates/ultraserviceauto/rc1/home.php",
+  "templateHash": "85a56abacca1371f78d91992bf8c566abd6304694922fb60176ab5d9d119066c",
+  "limitation": "PHP source is local retained source; byte identity with current server PHP cannot be proven from public GET. Current rendered output and served assets are captured separately. No database/configuration/credentials copied.",
+  "rows": [
+    {
+      "url": "https://ultraserviceauto.ru/media/com_jchoptimize/cache/css/620c5de33a76ee1528870cbe711af999cd7a643345495334d238a41136a8f295.css",
+      "file": "live-assets/866445e586d8-620c5de33a76ee1528870cbe711af999cd7a643345495334d238a41136a8f295.css",
+      "sha256": "7a6b391ac3d8df2a336c0564750d92e3825f885279c4b3961277b00f05d40663",
+      "bytes": 3663
+    },
+    {
+      "url": "https://ultraserviceauto.ru/media/com_jchoptimize/cache/css/620c5de33a76ee1528870cbe711af999df5fa04054fca7e051a8f2576ee83379.css",
+      "file": "live-assets/2ebcf44bdd4e-620c5de33a76ee1528870cbe711af999df5fa04054fca7e051a8f2576ee83379.css",
+      "sha256": "888ea46e358cdadb2c3bcd7381eb0c46167531c0a48275630de8ae6ea549fa7e",
+      "bytes": 66940
+    },
+    {
+      "url": "https://ultraserviceauto.ru/media/com_jchoptimize/cache/css/620c5de33a76ee1528870cbe711af9993a2ddcc28e82441735273b8f7e34733a.css",
+      "file": "live-assets/e4226edce7df-620c5de33a76ee1528870cbe711af9993a2ddcc28e82441735273b8f7e34733a.css",
+      "sha256": "c61e856b997004d0da46ef38969acc97525bb62c0b991f59a9deb3e66c57a0a9",
+      "bytes": 4816
+    },
+    {
+      "url": "https://ultraserviceauto.ru/media/com_jchoptimize/cache/css/620c5de33a76ee1528870cbe711af999c9255337fa90e4fbafef80219f19d1fd.css",
+      "file": "live-assets/7b6ccb73475f-620c5de33a76ee1528870cbe711af999c9255337fa90e4fbafef80219f19d1fd.css",
+      "sha256": "c0cdc008ddb1b312a66c77ef3e76b41e28428fdf9285ca2f90cf73d1f19834dd",
+      "bytes": 9470
+    },
+    {
+      "url": "https://ultraserviceauto.ru/media/com_jchoptimize/cache/css/620c5de33a76ee1528870cbe711af999e3a88a84e705ceceb837f9299ecdac4d.css",
+      "file": "live-assets/7bb7871c8124-620c5de33a76ee1528870cbe711af999e3a88a84e705ceceb837f9299ecdac4d.css",
+      "sha256": "95fa633387b55604e1d706e8c595a28f728b94564ef25596218bb13645ecf35f",
+      "bytes": 3107
+    },
+    {
+      "url": "https://ultraserviceauto.ru/media/com_jchoptimize/cache/css/620c5de33a76ee1528870cbe711af99982161fa2a5664299c23f1bf482e83492.css",
+      "file": "live-assets/5f96dc7245d8-620c5de33a76ee1528870cbe711af99982161fa2a5664299c23f1bf482e83492.css",
+      "sha256": "fa3d4d3362b2f0ca7d3a1a2199d09ae9b76d2076e1e395e172d57a7ebf94f1ec",
+      "bytes": 3820
+    },
+    {
+      "url": "https://ultraserviceauto.ru/media/com_jchoptimize/cache/css/620c5de33a76ee1528870cbe711af99909c849d8e8c71421b2e565420951b8fe.css",
+      "file": "live-assets/5790e197b061-620c5de33a76ee1528870cbe711af99909c849d8e8c71421b2e565420951b8fe.css",
+      "sha256": "c273d77c24434b5b93aa1b4b431b8e304b510cd3dbc7f34e33ffee53ea22e212",
+      "bytes": 1479
+    },
+    {
+      "url": "https://ultraserviceauto.ru/templates/ultraserviceauto/css/home-desktop-v11.css?v=1.2",
+      "file": "live-assets/af4507262fb2-home-desktop-v11.css",
+      "sha256": "e9b924038c8638731cd23df0377f6cc59e200a29caf9aa9b65addbb6c09ae532",
+      "bytes": 6409
+    },
+    {
+      "url": "https://ultraserviceauto.ru/media/com_jchoptimize/cache/js/4832a6cc13b7d55ca04b1b8507170f43b6241f7c670e29a78463b2df07cfc75f.js",
+      "file": "live-assets/8ceec3238fd2-4832a6cc13b7d55ca04b1b8507170f43b6241f7c670e29a78463b2df07cfc75f.js",
+      "sha256": "d50b4d3f47c4d2dff2785005762815eab53c99a5e39fc6c0f1993faca78133f8",
+      "bytes": 7626
+    },
+    {
+      "url": "https://ultraserviceauto.ru/media/system/js/joomla-hidden-mail.min.js?72c292",
+      "file": "live-assets/36115c07f3e9-joomla-hidden-mail.min.js",
+      "sha256": "1aacba2d5d0e5f070a52691efbf51b7183bba1fe42c6569ed5f2025c6e409f19",
+      "bytes": 1569
+    },
+    {
+      "url": "https://ultraserviceauto.ru/media/system/js/messages.min.js?72c292",
+      "file": "live-assets/4b436fceeb65-messages.min.js",
+      "sha256": "09426cb3251a9408374f3f37bb5ec75a921c2e71d8717a83e7ab0acf16addf0a",
+      "bytes": 5542
+    },
+    {
+      "url": "https://ultraserviceauto.ru/templates/ultraserviceauto/js/home-desktop-v11.js?v=1.2",
+      "file": "live-assets/fa07a8fc1829-home-desktop-v11.js",
+      "sha256": "d1b24871d2e8ddeb287aedffa8a79fad7febbc19d3fc01407d8f9df29c2fb667",
+      "bytes": 3664
+    },
+    {
+      "url": "https://ultraserviceauto.ru/templates/ultraserviceauto/js/breadcrumbs.js",
+      "file": "live-assets/9aec231bac2e-breadcrumbs.js",
+      "sha256": "ddc8a8195c2f0e7ffa59335dc18b9ee7c1c113d9ed2f79b07cc771a5d5f94278",
+      "bytes": 245
+    },
+    {
+      "url": "https://ultraserviceauto.ru/templates/ultraserviceauto/js/accordion.js",
+      "file": "live-assets/0577b12a9361-accordion.js",
+      "sha256": "eae73b108df92da2b1f56764145ac72c3f6f5dd2681d1479b9f28fed732a1686",
+      "bytes": 1136
+    },
+    {
+      "url": "https://ultraserviceauto.ru/templates/ultraserviceauto/js/slider.js",
+      "file": "live-assets/d9d3accf19f1-slider.js",
+      "sha256": "78d05493dfa5ea05a86ee6583a55f155aa9104dcfb2290f6bdc221486333c56e",
+      "bytes": 8524
+    },
+    {
+      "url": "https://ultraserviceauto.ru/templates/ultraserviceauto/js/brands-slider.js",
+      "file": "live-assets/d12a231a8555-brands-slider.js",
+      "sha256": "fc98f75f98e2ec3a07610efebc7575df3874b40696005b216fbb435750915603",
+      "bytes": 3276
+    },
+    {
+      "url": "https://ultraserviceauto.ru/templates/ultraserviceauto/js/nav.js",
+      "file": "live-assets/667935d129df-nav.js",
+      "sha256": "1e74d5190932ed89ca0d8b448fb41e44fd8c9087a59d4182f4b7c89d7d7c9121",
+      "bytes": 2672
+    },
+    {
+      "url": "https://ultraserviceauto.ru/templates/ultraserviceauto/js/rc1-modal-callback.js?v=tracking1",
+      "file": "live-assets/97c4031254d8-rc1-modal-callback.js",
+      "sha256": "02b90c748e09f02a4b18d61f52cf3f63afca954d341a361b5fe2fc38d9aae0f4",
+      "bytes": 17240
+    },
+    {
+      "url": "https://ultraserviceauto.ru/templates/ultraserviceauto/js/stage11-home.js?v=11",
+      "file": "live-assets/de99c311beb6-stage11-home.js",
+      "sha256": "6b44bbcda3567bc7c156aac59751a2038f9f1ba463aed13998a261f77524e1b7",
+      "bytes": 1804
+    },
+    {
+      "url": "https://ultraserviceauto.ru/templates/ultraserviceauto/js/gallery.js",
+      "file": "live-assets/6e23464e6974-gallery.js",
+      "sha256": "4b2544db2be723856a6818f71ac53adb756924ae6482643c51fdca8ab97357c7",
+      "bytes": 2349
+    },
+    {
+      "url": "https://ultraserviceauto.ru/templates/ultraserviceauto/js/reviews.js",
+      "file": "live-assets/3310ea0e58ea-reviews.js",
+      "sha256": "1f7c1cf91efc070e91abb73a20f2a212713109e4b10df4aa04a19d9fa6ad58f7",
+      "bytes": 6763
+    },
+    {
+      "url": "https://ultraserviceauto.ru/templates/ultraserviceauto/js/stage2-home.js?v=20",
+      "file": "live-assets/5a2441f066e9-stage2-home.js",
+      "sha256": "baf3332683dd0862aef2d2d6b6b901563010833c45ee9fd0d749f4c489c79717",
+      "bytes": 1154
+    },
+    {
+      "url": "https://ultraserviceauto.ru/templates/ultraserviceauto/js/mobile-contact-components.js?v=2",
+      "file": "live-assets/fc52982f3455-mobile-contact-components.js",
+      "sha256": "a4faacbfc8812f70fa47453d5dacccc91f021ce06c123110271771a3307cf956",
+      "bytes": 1392
+    },
+    {
+      "url": "https://ultraserviceauto.ru/templates/ultraserviceauto/js/home-mobile-v11.js?v=11",
+      "file": "live-assets/5140ac9d232b-home-mobile-v11.js",
+      "sha256": "573bab78ec98b917658b1c0b177647567e309adea6ea26df7071b76185cb6fd0",
+      "bytes": 4253
+    },
+    {
+      "url": "https://ultraserviceauto.ru/templates/ultraserviceauto/js/rc1-analytics.js?v=tracking1",
+      "file": "live-assets/dab9cfec7941-rc1-analytics.js",
+      "sha256": "f23fbed2be92bebd1cc64e52cbc62d134dc43e2267332d9b9eaf0020f9726197",
+      "bytes": 4179
+    },
+    {
+      "url": "https://ultraserviceauto.ru/",
+      "file": "live-home-rendered.html",
+      "sha256": "b5669af1ebf3eeb750f0f7eb43e1fc5d30c28474e2112c630b7d22c5be2e70a0",
+      "note": "Rendered browser DOM 1440; hidden values stripped; not a Joomla database export."
+    }
+  ]
+}

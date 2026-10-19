@@ -1,0 +1,80 @@
+.home-desktop-only{display:none}
+@media(min-width:768px){
+ .home-desktop-only{display:block}
+ .stage2-home .stage21-brands{display:none!important}
+ .stage2-home #s-hero{padding:28px 0 24px}
+ .stage2-home .hero__top{gap:12px;margin:0}
+ .stage2-home #s-hero .hero__title{font-size:44px!important;line-height:1.08;max-width:1000px;margin:0!important}
+ .stage2-home .stage11-specialties{margin:8px 0;font-size:18px}
+ .stage2-home .stage1-eyebrow{margin:0 0 10px}
+ .stage2-home #s-hero .hero__subtitle{font-size:17px!important;line-height:1.4;margin:8px 0!important;max-width:950px}
+ .stage2-home .hero__meta-row{margin-top:10px;gap:20px}
+ .stage2-home .hero__meta-item{font-size:15px}
+ .stage2-home #s-hero .hero__cta-wrap .btn{min-height:48px;height:48px;padding:12px 24px;font-size:16px}
+ .stage2-home .usa-model-work{padding:8px 0!important;margin:0;width:100%;min-width:0}
+ .stage2-home .usa-model-work>.container{padding:0;max-width:none}
+ .stage2-home .usa-model-work .section-title,.stage2-home .stage21-swipe-hint{display:none}
+ .stage2-home .stage11-model-grid{display:flex;gap:14px;overflow-x:auto;scroll-snap-type:x mandatory;padding:0 0 8px;max-width:100%}
+ .stage2-home .stage11-model-card{flex:0 0 30%;min-width:240px;min-height:0!important;scroll-snap-align:start;padding:8px 12px;border-radius:14px}
+ .stage2-home .stage11-model-card h3{font-size:17px;margin:8px 0 0}
+ .stage2-home .stage11-model-card p,.stage2-home .stage11-model-card button{display:none}
+ .stage2-home .stage11-model-card a{font-size:13px;min-height:44px;display:flex;align-items:center}
+ .stage2-home .home-model-photo{width:100%;height:100px;object-fit:cover;border-radius:9px}
+ .stage2-home .stage1-symptoms{margin:20px 0 0;padding:0}
+ .stage2-home .stage1-symptoms .section-title{font-size:28px;margin-bottom:12px}
+ .stage2-home .stage11-symptom-help{display:none}
+ .stage2-home .stage1-symptom-grid{grid-template-columns:repeat(3,minmax(0,1fr));gap:8px}
+ .stage2-home .stage1-symptom{display:flex;align-items:center;justify-content:center;text-align:center;min-height:56px;padding:12px;font-size:14px;line-height:1.4;font-weight:400}
+ .stage2-home .stage1-symptom>span[aria-hidden]{display:none}
+ .stage2-home .stage1-symptom[data-symptom-id="symptom-7"],.stage2-home .stage1-symptom[data-symptom-id="symptom-9"]{display:none!important}
+ .stage2-home .stage1-symptom.ux-other{display:flex!important;grid-column:auto}
+ .stage2-home #s-work{padding:28px 0 32px}
+ .stage2-home #s-work .section-title{font-size:32px;margin:0 0 12px;line-height:1.15}
+ .stage2-home .work__label{margin:0 0 18px}
+ .stage2-home .work__grid{display:flex;gap:18px;overflow-x:auto}
+ .stage2-home .video-card{flex:0 0 calc((100% - 36px)/3);height:230px;aspect-ratio:auto}
+ .stage2-home #s-work .slider-nav{margin-top:18px}
+ .stage2-home #s-team{padding:32px 0 40px}
+ .stage2-home .usa-proof{display:grid;grid-template-columns:1fr 1fr;gap:30px;align-items:center;max-width:1160px;margin:24px auto;padding:24px}
+ .stage2-home .usa-proof-photo{width:100%;height:300px;object-fit:cover;border-radius:14px}
+ .stage2-home #s-about{padding:36px 0}
+ .stage2-home .about__title{font-size:32px;line-height:1.18;margin:8px 0 14px;max-width:1000px}
+ .stage2-home .about__subtitle{font-size:16px;margin:0 0 20px}
+ .stage2-home .features-grid{gap:12px;margin:0}
+ .stage2-home #s-about .feature-card{padding:18px;min-height:110px!important;height:auto;gap:10px}
+ .stage2-home .feature-card h3{font-size:18px;line-height:1.25;margin:0}
+ .stage2-home .feature-card__icon{width:24px;height:24px;margin:0}
+ .stage2-home .features-footer{margin-top:14px}
+ .stage2-home #s-faq{padding:36px 0}
+ .stage2-home .home-real{padding:32px 0}
+ .stage2-home .home-real-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:14px}
+ .stage2-home .home-real figure{margin:0}
+ .stage2-home .home-real img{width:100%;height:190px;object-fit:cover;border-radius:14px}
+}
+@media(min-width:768px){
+ .stage2-home .s-brands{display:block!important;padding:12px 0 16px;width:100%;min-width:0}
+ .stage2-home .brands__slider{min-width:0}.stage2-home .brands__viewport{min-width:0}
+ .stage2-home .brands__logo-link{height:64px;min-height:44px}.stage2-home .brands__logo{max-height:48px;object-fit:contain}
+ .stage2-home .brands__arrow{width:44px;height:44px}
+ .stage2-home .usa-model-work{margin-top:24px;padding:0!important}
+ .stage2-home .usa-model-work .section-title{display:block;font-size:28px;margin:0 0 16px}
+ .stage2-home #video-slider{scroll-snap-type:x mandatory;overscroll-behavior-x:contain;scrollbar-width:thin;padding-bottom:10px}
+ .stage2-home #video-slider .video-card{display:block!important;flex:0 0 23%;height:auto;aspect-ratio:9/16;scroll-snap-align:start;min-width:0;opacity:1;transform:none}
+ .stage2-home #video-slider .video-thumb{width:100%;height:100%;object-fit:cover}
+ .stage2-home [data-slider="video"]>span:not(.slider-nav__counter){display:none}
+ .stage2-home [data-slider="video"] .slider-nav__counter{display:flex;gap:10px}
+ .stage2-home .usa-proof{grid-template-columns:58% 42%;gap:0;align-items:stretch;padding:0;border-radius:30px;overflow:hidden;background:#202020;color:white;max-width:1080px}
+ .stage2-home .usa-proof-photo{height:100%;min-height:460px;object-fit:cover;border-radius:0}
+ .stage2-home .usa-proof-copy{padding:32px 34px;background:#202020;color:white}
+ .stage2-home .usa-proof-copy h2{font-size:32px;line-height:1.2;margin:0 0 20px;color:white}
+ .stage2-home .usa-proof-copy p{font-size:17px;line-height:1.55;color:white}
+ .stage2-home .usa-proof-links{display:flex;flex-direction:column;margin-top:20px}
+ .stage2-home .usa-proof-links a{padding:14px 0;min-height:44px;color:white;border-bottom:1px solid #666;font-size:15px}
+ .stage2-home #s-services{display:block;padding:40px 0}
+ .stage2-home #s-services .services__list,.stage2-home #s-services .services__footer,.stage2-home #s-services .stage2-existing-title,.stage2-home #s-services .stage2-existing-title+p,.stage2-home #s-services .ux-v11-more{display:none}
+ .stage2-home #s-services .section-title{font-size:36px}
+ .stage2-home #s-services .stage2-products{margin:20px 0 0;gap:14px}
+ .stage2-home #s-services .stage2-product{padding:18px;gap:12px}
+ .stage2-home #s-services .stage2-product h3{font-size:22px}
+ .stage2-home #s-services .stage2-product p{font-size:15px;line-height:1.45}
+}
