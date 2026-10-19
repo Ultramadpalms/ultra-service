@@ -1,0 +1,900 @@
+{
+  "source": "https://ultraserviceauto.ru",
+  "captured": "2026-10-19",
+  "data": {
+    "h1": "Диагностика автоэлектроники, гибридов и электромобилей",
+    "lead": "Диагностируем автомобиль и сами определяем причину неисправности. Ремонтируем блоки управления, высоковольтные системы и батареи.",
+    "sections": [
+      {
+        "id": "s-hero",
+        "cls": "s-hero stage1-home"
+      },
+      {
+        "id": "",
+        "cls": "stage1-symptoms"
+      },
+      {
+        "id": "",
+        "cls": "usa-model-work"
+      },
+      {
+        "id": "s-work",
+        "cls": "s-work"
+      },
+      {
+        "id": "s-team",
+        "cls": "s-team team-update-v1"
+      },
+      {
+        "id": "s-services",
+        "cls": "s-services"
+      },
+      {
+        "id": "s-about",
+        "cls": "s-about"
+      },
+      {
+        "id": "s-real-photos",
+        "cls": "home-desktop-only home-real"
+      },
+      {
+        "id": "s-reviews",
+        "cls": "s-reviews"
+      },
+      {
+        "id": "s-faq",
+        "cls": "s-faq"
+      },
+      {
+        "id": "s-contacts",
+        "cls": "s-contacts"
+      }
+    ],
+    "symptoms": [
+      {
+        "id": "symptom-10",
+        "text": "Не заводится"
+      },
+      {
+        "id": "symptom-1",
+        "text": "Не заряжается"
+      },
+      {
+        "id": "symptom-2",
+        "text": "Не выходит в Ready"
+      },
+      {
+        "id": "symptom-8",
+        "text": "Не запускается после ДТП"
+      },
+      {
+        "id": "symptom-4",
+        "text": "Ошибка высоковольтной системы"
+      },
+      {
+        "id": "symptom-5",
+        "text": "Ошибка изоляции"
+      },
+      {
+        "id": "symptom-6",
+        "text": "Ограничение мощности"
+      },
+      {
+        "id": "symptom-7",
+        "text": "Ошибка электропривода"
+      },
+      {
+        "id": "symptom-3",
+        "text": "Ошибка ВВБ/BMS"
+      },
+      {
+        "id": "symptom-9",
+        "text": "Не запускается после глубокой разрядки"
+      }
+    ],
+    "products": [
+      {
+        "title": "Высоковольтные батареи — ВВБ",
+        "text": "Диагностика ВВБ и связанных систем. Возможность и объём ремонта определяем после проверки автомобиля.",
+        "url": "/services/diagnostika-remont-i-tekhobsluzhivanie-gibridnykh-avto-i-elektromobilej"
+      },
+      {
+        "title": "BMS",
+        "text": "Диагностика системы управления батареей и связанных неисправностей. Ошибка BMS не всегда означает неисправность самого блока.",
+        "url": "/services/diagnostika-remont-i-tekhobsluzhivanie-gibridnykh-avto-i-elektromobilej"
+      },
+      {
+        "title": "Зарядные системы",
+        "text": "Диагностика зарядки AC/DC, OBC и связанных высоковольтных цепей. Применимость работ уточняем для конкретного автомобиля.",
+        "url": "/services/diagnostika-remont-i-tekhobsluzhivanie-gibridnykh-avto-i-elektromobilej"
+      },
+      {
+        "title": "Силовая электроника",
+        "text": "Инверторы, DC/DC, PDU и связанные компоненты. Возможность ремонта определяем после диагностики.",
+        "url": "/services/diagnostika-remont-i-tekhobsluzhivanie-gibridnykh-avto-i-elektromobilej"
+      },
+      {
+        "title": "Электропривод",
+        "text": "Электромоторы, редукторы и связанные электронные и высоковольтные системы. Объём работ согласуем после проверки.",
+        "url": "/services/diagnostika-remont-i-tekhobsluzhivanie-gibridnykh-avto-i-elektromobilej"
+      },
+      {
+        "title": "Высоковольтная система после ДТП",
+        "text": "Проверка HV-систем, блокировок, пиропатронов, повреждённых цепей и электроники. Возможность работ зависит от состояния автомобиля.",
+        "url": "/services/diagnostika-remont-i-tekhobsluzhivanie-gibridnykh-avto-i-elektromobilej"
+      },
+      {
+        "title": "ЭБУ и автомобильная электроника",
+        "text": "Сначала диагностируем автомобиль, затем выполняем компонентный ремонт установленной причины неисправности.",
+        "url": "/services/rabota-s-ebu-remont-proshivka-klonirovanie-blokov"
+      },
+      {
+        "title": "Программирование и привязка компонентов",
+        "text": "Проверяем совместимость. Программирование и привязка — только там, где операция фактически доступна.",
+        "url": "/services/rabota-s-ebu-remont-proshivka-klonirovanie-blokov"
+      },
+      {
+        "title": "Русификация",
+        "text": "Дополнительное направление. Возможность русификации уточняем по модели и версии программного обеспечения.",
+        "url": "/services/rusifikatsiya-avtomobilej"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Как согласовать диагностику и её стоимость?",
+        "a": "По описанию уточним задачу и условия диагностики. Объём и стоимость ремонта согласуем после проверки автомобиля."
+      },
+      {
+        "q": "Можно ли отправить вам только высоковольтную батарею?",
+        "a": "Да. Высоковольтную батарею можно отправить отдельно транспортной компанией в обрешётке или доставить своими силами без автомобиля. Перед отправкой необходимо согласовать с нами возможность ремонта и условия приёма батареи."
+      },
+      {
+        "q": "Сколько времени занимает ремонт?",
+        "a": "Срок зависит от результатов диагностики, необходимых работ и доступности компонентов. Условия согласуем после проверки автомобиля."
+      },
+      {
+        "q": "Можно ли отправить блок из другого города?",
+        "a": "Отдельные ЭБУ и BMS обычно не принимаем без автомобиля. Возможность приёма отдельных агрегатов, в том числе ВВБ из регионов, согласовывается заранее. Перед отправкой свяжитесь с нами: обсудим неисправность и условия безопасной транспортировки."
+      },
+      {
+        "q": "Есть ли гарантия?",
+        "a": "Условия и срок гарантии зависят от вида выполненных работ и согласовываются для конкретного ремонта."
+      },
+      {
+        "q": "Что сообщить при первом обращении?",
+        "a": "Сообщите марку, модель, симптомы и сведения о предыдущих работах. При необходимости попросим VIN и дополнительные данные."
+      }
+    ],
+    "team": [
+      {
+        "name": "Николай Зюлин",
+        "role": "Руководитель автосервиса  по ремонту автоэлектроники. Инженер по ремонту гибридов и электромобилей.",
+        "src": "/templates/ultraserviceauto/images/team-1.jpg",
+        "asset": "/assets/e66eadfe891da0.jpg"
+      },
+      {
+        "name": "Кузнецов Александр",
+        "role": "Старший менеджер сервисного центра",
+        "src": "/templates/ultraserviceauto/images/team-kuznetsov-v1.webp",
+        "asset": "/assets/0cd3c1d4fb78fb.webp"
+      },
+      {
+        "name": "Демидов Александр Владимирович",
+        "role": "Автоэлектрик-диагностСпециалист по диагностике и ремонту автомобилей из Китая",
+        "src": "/templates/ultraserviceauto/images/team-demidov-v1.webp",
+        "asset": "/assets/5bbe093188874e.webp"
+      },
+      {
+        "name": "Шитов Евгений Борисович",
+        "role": "Специалист по EV/PHEVМастер по ремонту высоковольтных батарей",
+        "src": "/templates/ultraserviceauto/images/team-shitov-v1.webp",
+        "asset": "/assets/dfc8ad5d4f4942.webp"
+      }
+    ],
+    "models": [
+      {
+        "name": "Zeekr 9X",
+        "text": "Замена и привязка редуктора, электронные блоки и работы после ДТП.",
+        "src": "/images/cars/zeekr/zeekr-9x.jpg",
+        "url": "/brands/zeekr/9x",
+        "asset": "/assets/59bd77a0f165e1.jpg"
+      },
+      {
+        "name": "Zeekr 001",
+        "text": "Ошибка изоляции и попадание охлаждающей жидкости в высоковольтную батарею.",
+        "src": "/images/cars/zeekr/zeekr-001.jpg",
+        "url": "/brands/zeekr/001",
+        "asset": "/assets/58b6d9fe5b850a.jpg"
+      },
+      {
+        "name": "Voyah Free",
+        "text": "Работы с ВВБ и BMS, высоковольтным нагревателем и компрессором.",
+        "src": "/images/cars/voyah/voyah-free.jpg",
+        "url": "/brands/voyah/free",
+        "asset": "/assets/7e0dc57e342abd.jpg"
+      },
+      {
+        "name": "Changan UNI-K iDD",
+        "text": "Практический опыт работы с автомобилем с неисправностью ВВБ. Направления работ согласуем после проверки автомобиля.",
+        "src": "/images/mobile-pilot/changan-uni-k-idd.webp",
+        "url": "/brands/changan/uni-k-idd",
+        "asset": "/assets/011145412cdcc5.webp"
+      }
+    ],
+    "videos": [],
+    "links": [
+      {
+        "text": "",
+        "url": "/"
+      },
+      {
+        "text": "О нас",
+        "url": "/about"
+      },
+      {
+        "text": "Марки авто",
+        "url": "/brands"
+      },
+      {
+        "text": "Фото",
+        "url": "/foto"
+      },
+      {
+        "text": "Услуги",
+        "url": "/services"
+      },
+      {
+        "text": "Блог",
+        "url": "/blog"
+      },
+      {
+        "text": "Контакты",
+        "url": "/kontakty"
+      },
+      {
+        "text": "",
+        "url": "https://max.ru/u/f9LHodD0cOL4o-aPzqYA3KqbDyaSayGyPamnLD8DbQEeHIuVsqXaltYkI7U"
+      },
+      {
+        "text": "",
+        "url": "https://t.me/ultra_service_auto"
+      },
+      {
+        "text": "",
+        "url": "https://wa.me/79990036640"
+      },
+      {
+        "text": "",
+        "url": "tel:+79990036640"
+      },
+      {
+        "text": "",
+        "url": "/brands/zeekr"
+      },
+      {
+        "text": "",
+        "url": "/brands/voyah"
+      },
+      {
+        "text": "",
+        "url": "/brands/li-auto"
+      },
+      {
+        "text": "",
+        "url": "/brands/gac"
+      },
+      {
+        "text": "",
+        "url": "/brands/changan"
+      },
+      {
+        "text": "",
+        "url": "/brands/avatr"
+      },
+      {
+        "text": "",
+        "url": "/brands/deepal"
+      },
+      {
+        "text": "",
+        "url": "/brands/qiyuan"
+      },
+      {
+        "text": "",
+        "url": "/brands/evolute"
+      },
+      {
+        "text": "",
+        "url": "/brands/hongqi"
+      },
+      {
+        "text": "",
+        "url": "/brands/chery"
+      },
+      {
+        "text": "",
+        "url": "/brands/geely"
+      },
+      {
+        "text": "",
+        "url": "/brands/toyota"
+      },
+      {
+        "text": "",
+        "url": "/brands/lexus"
+      },
+      {
+        "text": "",
+        "url": "/brands/byd"
+      },
+      {
+        "text": "",
+        "url": "/brands/tesla"
+      },
+      {
+        "text": "",
+        "url": "/brands/exeed"
+      },
+      {
+        "text": "",
+        "url": "/brands/dongfeng"
+      },
+      {
+        "text": "",
+        "url": "/brands/forthing"
+      },
+      {
+        "text": "",
+        "url": "/brands/aito"
+      },
+      {
+        "text": "",
+        "url": "/brands/lynk-and-co"
+      },
+      {
+        "text": "",
+        "url": "/brands/bestune"
+      },
+      {
+        "text": "",
+        "url": "/brands/seres"
+      },
+      {
+        "text": "",
+        "url": "/brands/jetour"
+      },
+      {
+        "text": "",
+        "url": "/brands/jaecoo"
+      },
+      {
+        "text": "",
+        "url": "/brands/mercedes-benz"
+      },
+      {
+        "text": "",
+        "url": "/brands/audi"
+      },
+      {
+        "text": "",
+        "url": "/brands/volkswagen"
+      },
+      {
+        "text": "",
+        "url": "/brands/denza"
+      },
+      {
+        "text": "",
+        "url": "/brands/xpeng"
+      },
+      {
+        "text": "",
+        "url": "/brands/hiphi"
+      },
+      {
+        "text": "",
+        "url": "/brands/xiaomi"
+      },
+      {
+        "text": "",
+        "url": "/brands/wey"
+      },
+      {
+        "text": "",
+        "url": "/brands/wuling"
+      },
+      {
+        "text": "",
+        "url": "/brands/baojun"
+      },
+      {
+        "text": "",
+        "url": "/brands/jaguar"
+      },
+      {
+        "text": "",
+        "url": "/brands/zeekr"
+      },
+      {
+        "text": "",
+        "url": "/brands/voyah"
+      },
+      {
+        "text": "",
+        "url": "/brands/li-auto"
+      },
+      {
+        "text": "",
+        "url": "/brands/gac"
+      },
+      {
+        "text": "",
+        "url": "/brands/changan"
+      },
+      {
+        "text": "",
+        "url": "/brands/avatr"
+      },
+      {
+        "text": "",
+        "url": "/brands/deepal"
+      },
+      {
+        "text": "",
+        "url": "/brands/qiyuan"
+      },
+      {
+        "text": "",
+        "url": "/brands/evolute"
+      },
+      {
+        "text": "",
+        "url": "/brands/hongqi"
+      },
+      {
+        "text": "",
+        "url": "/brands/chery"
+      },
+      {
+        "text": "",
+        "url": "/brands/geely"
+      },
+      {
+        "text": "",
+        "url": "/brands/toyota"
+      },
+      {
+        "text": "",
+        "url": "/brands/lexus"
+      },
+      {
+        "text": "",
+        "url": "/brands/byd"
+      },
+      {
+        "text": "",
+        "url": "/brands/tesla"
+      },
+      {
+        "text": "",
+        "url": "/brands/exeed"
+      },
+      {
+        "text": "",
+        "url": "/brands/dongfeng"
+      },
+      {
+        "text": "",
+        "url": "/brands/forthing"
+      },
+      {
+        "text": "",
+        "url": "/brands/aito"
+      },
+      {
+        "text": "",
+        "url": "/brands/lynk-and-co"
+      },
+      {
+        "text": "",
+        "url": "/brands/bestune"
+      },
+      {
+        "text": "",
+        "url": "/brands/seres"
+      },
+      {
+        "text": "",
+        "url": "/brands/jetour"
+      },
+      {
+        "text": "",
+        "url": "/brands/jaecoo"
+      },
+      {
+        "text": "",
+        "url": "/brands/mercedes-benz"
+      },
+      {
+        "text": "",
+        "url": "/brands/audi"
+      },
+      {
+        "text": "",
+        "url": "/brands/volkswagen"
+      },
+      {
+        "text": "",
+        "url": "/brands/denza"
+      },
+      {
+        "text": "",
+        "url": "/brands/xpeng"
+      },
+      {
+        "text": "",
+        "url": "/brands/hiphi"
+      },
+      {
+        "text": "",
+        "url": "/brands/xiaomi"
+      },
+      {
+        "text": "",
+        "url": "/brands/wey"
+      },
+      {
+        "text": "",
+        "url": "/brands/wuling"
+      },
+      {
+        "text": "",
+        "url": "/brands/baojun"
+      },
+      {
+        "text": "",
+        "url": "/brands/jaguar"
+      },
+      {
+        "text": "ПОЗВОНИТЬ В СЕРВИС+7 999 003-66-40",
+        "url": "tel:+79990036640"
+      },
+      {
+        "text": "",
+        "url": "https://wa.me/79990036640"
+      },
+      {
+        "text": "",
+        "url": "https://t.me/ultra_service_auto"
+      },
+      {
+        "text": "",
+        "url": "https://max.ru/u/f9LHodD0cOL4o-aPzqYA3KqbDyaSayGyPamnLD8DbQEeHIuVsqXaltYkI7U"
+      },
+      {
+        "text": "Подробнее о работах →",
+        "url": "/brands/zeekr/9x"
+      },
+      {
+        "text": "Подробнее о работах →",
+        "url": "/brands/zeekr/001"
+      },
+      {
+        "text": "Подробнее о работах →",
+        "url": "/brands/voyah/free"
+      },
+      {
+        "text": "Подробнее о работах →",
+        "url": "/brands/changan/uni-k-idd"
+      },
+      {
+        "text": "Все марки →",
+        "url": "/brands"
+      },
+      {
+        "text": "Подробнее",
+        "url": "/team"
+      },
+      {
+        "text": "Диагностика гибридов и электромобилей →",
+        "url": "/services/diagnostika-remont-i-tekhobsluzhivanie-gibridnykh-avto-i-elektromobilej"
+      },
+      {
+        "text": "Компонентный ремонт электроники →",
+        "url": "/services/rabota-s-ebu-remont-proshivka-klonirovanie-blokov"
+      },
+      {
+        "text": "Zeekr 9X: замена и привязка компонентов →",
+        "url": "/brands/zeekr/9x"
+      },
+      {
+        "text": "О диагностике и ремонте →",
+        "url": "/services/diagnostika-remont-i-tekhobsluzhivanie-gibridnykh-avto-i-elektromobilej"
+      },
+      {
+        "text": "О диагностике и ремонте →",
+        "url": "/services/diagnostika-remont-i-tekhobsluzhivanie-gibridnykh-avto-i-elektromobilej"
+      },
+      {
+        "text": "О диагностике и ремонте →",
+        "url": "/services/diagnostika-remont-i-tekhobsluzhivanie-gibridnykh-avto-i-elektromobilej"
+      },
+      {
+        "text": "О диагностике и ремонте →",
+        "url": "/services/diagnostika-remont-i-tekhobsluzhivanie-gibridnykh-avto-i-elektromobilej"
+      },
+      {
+        "text": "О диагностике и ремонте →",
+        "url": "/services/diagnostika-remont-i-tekhobsluzhivanie-gibridnykh-avto-i-elektromobilej"
+      },
+      {
+        "text": "О диагностике и ремонте →",
+        "url": "/services/diagnostika-remont-i-tekhobsluzhivanie-gibridnykh-avto-i-elektromobilej"
+      },
+      {
+        "text": "Подробнее об услуге →",
+        "url": "/services/rabota-s-ebu-remont-proshivka-klonirovanie-blokov"
+      },
+      {
+        "text": "Подробнее об услуге →",
+        "url": "/services/rabota-s-ebu-remont-proshivka-klonirovanie-blokov"
+      },
+      {
+        "text": "Подробнее об услуге →",
+        "url": "/services/rusifikatsiya-avtomobilej"
+      },
+      {
+        "text": "Комплексная компьютерная диагностика",
+        "url": "/services/kompleksnaya-kompyuternaya-diagnostika"
+      },
+      {
+        "text": "Подробнее",
+        "url": "/services/kompleksnaya-kompyuternaya-diagnostika"
+      },
+      {
+        "text": "",
+        "url": "/services/kompleksnaya-kompyuternaya-diagnostika"
+      },
+      {
+        "text": "Ремонт и техобслуживание авто из Китая",
+        "url": "/services/remont-i-tekhobsluzhivanie-avto-iz-kitaya"
+      },
+      {
+        "text": "Подробнее",
+        "url": "/services/remont-i-tekhobsluzhivanie-avto-iz-kitaya"
+      },
+      {
+        "text": "",
+        "url": "/services/remont-i-tekhobsluzhivanie-avto-iz-kitaya"
+      },
+      {
+        "text": "Диагностика, ремонт и техобслуживание гибридных авто и электромобилей",
+        "url": "/services/diagnostika-remont-i-tekhobsluzhivanie-gibridnykh-avto-i-elektromobilej"
+      },
+      {
+        "text": "Подробнее",
+        "url": "/services/diagnostika-remont-i-tekhobsluzhivanie-gibridnykh-avto-i-elektromobilej"
+      },
+      {
+        "text": "",
+        "url": "/services/diagnostika-remont-i-tekhobsluzhivanie-gibridnykh-avto-i-elektromobilej"
+      },
+      {
+        "text": "Работа с ЭБУ. Ремонт, прошивка, клонирование блоков",
+        "url": "/services/rabota-s-ebu-remont-proshivka-klonirovanie-blokov"
+      },
+      {
+        "text": "Подробнее",
+        "url": "/services/rabota-s-ebu-remont-proshivka-klonirovanie-blokov"
+      },
+      {
+        "text": "",
+        "url": "/services/rabota-s-ebu-remont-proshivka-klonirovanie-blokov"
+      },
+      {
+        "text": "Русификация автомобилей",
+        "url": "/services/rusifikatsiya-avtomobilej"
+      },
+      {
+        "text": "Подробнее",
+        "url": "/services/rusifikatsiya-avtomobilej"
+      },
+      {
+        "text": "",
+        "url": "/services/rusifikatsiya-avtomobilej"
+      },
+      {
+        "text": "Все услуги",
+        "url": "/services"
+      },
+      {
+        "text": "Подробнее о ТО →",
+        "url": "/services/remont-i-tekhobsluzhivanie-avto-iz-kitaya"
+      },
+      {
+        "text": "О нас подробнее",
+        "url": "/about"
+      },
+      {
+        "text": "",
+        "url": "#"
+      },
+      {
+        "text": "Читать целиком",
+        "url": "#"
+      },
+      {
+        "text": "",
+        "url": "#"
+      },
+      {
+        "text": "Читать целиком",
+        "url": "#"
+      },
+      {
+        "text": "Все отзывы",
+        "url": "/reviews"
+      },
+      {
+        "text": "+7 (999) 003‑66‑40",
+        "url": "tel:+79990036640"
+      },
+      {
+        "text": "remont@oscomp.ru",
+        "url": "mailto:remont@oscomp.ru"
+      },
+      {
+        "text": "",
+        "url": "https://wa.me/79990036640"
+      },
+      {
+        "text": "",
+        "url": "https://t.me/ultra_service_auto"
+      },
+      {
+        "text": "",
+        "url": "https://max.ru/u/f9LHodD0cOL4o-aPzqYA3KqbDyaSayGyPamnLD8DbQEeHIuVsqXaltYkI7U"
+      },
+      {
+        "text": "",
+        "url": "/"
+      },
+      {
+        "text": "ЯОтзывы",
+        "url": "https://yandex.com/maps/org/ultra_service_auto/212502103829/reviews/"
+      },
+      {
+        "text": "",
+        "url": "https://wa.me/79990036640"
+      },
+      {
+        "text": "",
+        "url": "https://t.me/ultra_service_auto"
+      },
+      {
+        "text": "",
+        "url": "https://max.ru/u/f9LHodD0cOL4o-aPzqYA3KqbDyaSayGyPamnLD8DbQEeHIuVsqXaltYkI7U"
+      },
+      {
+        "text": "+7 (999) 003-66-40",
+        "url": "tel:+79990036640"
+      },
+      {
+        "text": "remont@oscomp.ru",
+        "url": "mailto:remont@oscomp.ru"
+      },
+      {
+        "text": "Политика конфиденциальности",
+        "url": "/privacy"
+      },
+      {
+        "text": "",
+        "url": "/"
+      },
+      {
+        "text": "",
+        "url": "https://yandex.com/maps/org/ultra_service_auto/212502103829/?ll=37.607552%2C55.572619&utm_source=share&z=11"
+      },
+      {
+        "text": "",
+        "url": "https://wa.me/79990036640"
+      },
+      {
+        "text": "",
+        "url": "https://t.me/ultra_service_auto"
+      },
+      {
+        "text": "",
+        "url": "https://max.ru/u/f9LHodD0cOL4o-aPzqYA3KqbDyaSayGyPamnLD8DbQEeHIuVsqXaltYkI7U"
+      },
+      {
+        "text": "О нас",
+        "url": "/about"
+      },
+      {
+        "text": "Марки авто",
+        "url": "/brands"
+      },
+      {
+        "text": "Фото",
+        "url": "/foto"
+      },
+      {
+        "text": "Услуги",
+        "url": "/services"
+      },
+      {
+        "text": "Блог",
+        "url": "/blog"
+      },
+      {
+        "text": "Контакты",
+        "url": "/kontakty"
+      },
+      {
+        "text": "+7 (999) 003‑66‑40",
+        "url": "tel:+79990036640"
+      },
+      {
+        "text": "remont@oscomp.ru",
+        "url": "mailto:remont@oscomp.ru"
+      },
+      {
+        "text": "Политика конфиденциальности",
+        "url": "/privacy"
+      },
+      {
+        "text": "О нас",
+        "url": "/about"
+      },
+      {
+        "text": "Марки авто",
+        "url": "/brands"
+      },
+      {
+        "text": "Фото",
+        "url": "/foto"
+      },
+      {
+        "text": "Услуги",
+        "url": "/services"
+      },
+      {
+        "text": "Блог",
+        "url": "/blog"
+      },
+      {
+        "text": "Контакты",
+        "url": "/kontakty"
+      },
+      {
+        "text": "Записаться",
+        "url": "#s-contacts"
+      },
+      {
+        "text": "",
+        "url": "https://max.ru/u/f9LHodD0cOL4o-aPzqYA3KqbDyaSayGyPamnLD8DbQEeHIuVsqXaltYkI7U"
+      },
+      {
+        "text": "",
+        "url": "https://wa.me/79990036640"
+      },
+      {
+        "text": "",
+        "url": "https://t.me/ultra_service_auto"
+      },
+      {
+        "text": "",
+        "url": "tel:+79990036640"
+      },
+      {
+        "text": "обработку персональных данных",
+        "url": "/privacy"
+      },
+      {
+        "text": "Позвонить",
+        "url": "tel:+79990036640"
+      }
+    ]
+  }
+}

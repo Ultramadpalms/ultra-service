@@ -1,0 +1,280 @@
+@font-face {
+  font-family: 'TikTok Sans';
+  font-style: normal;
+  font-weight: 300;
+  font-stretch: condensed;
+  font-display: swap;
+  src: url(/assets/649e717afffd4f.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'TikTok Sans';
+  font-style: normal;
+  font-weight: 300;
+  font-stretch: semi-condensed;
+  font-display: swap;
+  src: url(/assets/8dada61ad5d4bd.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'TikTok Sans';
+  font-style: normal;
+  font-weight: 300;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(/assets/5c940ce38aec58.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'TikTok Sans';
+  font-style: normal;
+  font-weight: 300;
+  font-stretch: semi-expanded;
+  font-display: swap;
+  src: url(/assets/ace1a61962b650.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'TikTok Sans';
+  font-style: normal;
+  font-weight: 300;
+  font-stretch: expanded;
+  font-display: swap;
+  src: url(/assets/954886517d9d21.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'TikTok Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: condensed;
+  font-display: swap;
+  src: url(/assets/2f2a4ea82ec717.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'TikTok Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: semi-condensed;
+  font-display: swap;
+  src: url(/assets/b13ccbaa590f35.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'TikTok Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(/assets/1532cbe43b91b9.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'TikTok Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: semi-expanded;
+  font-display: swap;
+  src: url(/assets/4a641389edef65.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'TikTok Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: expanded;
+  font-display: swap;
+  src: url(/assets/8f099f6d926bf9.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'TikTok Sans';
+  font-style: normal;
+  font-weight: 500;
+  font-stretch: condensed;
+  font-display: swap;
+  src: url(/assets/217943d6af26d3.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'TikTok Sans';
+  font-style: normal;
+  font-weight: 500;
+  font-stretch: semi-condensed;
+  font-display: swap;
+  src: url(/assets/bac5c5208fd9dc.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'TikTok Sans';
+  font-style: normal;
+  font-weight: 500;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(/assets/517868406f5860.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'TikTok Sans';
+  font-style: normal;
+  font-weight: 500;
+  font-stretch: semi-expanded;
+  font-display: swap;
+  src: url(/assets/1ef75ef79cc7ca.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'TikTok Sans';
+  font-style: normal;
+  font-weight: 500;
+  font-stretch: expanded;
+  font-display: swap;
+  src: url(/assets/19a233e609dd74.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'TikTok Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-stretch: condensed;
+  font-display: swap;
+  src: url(/assets/7875020905df6c.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'TikTok Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-stretch: semi-condensed;
+  font-display: swap;
+  src: url(/assets/1d009d52f11df4.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'TikTok Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(/assets/96f57921fbd0e6.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'TikTok Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-stretch: semi-expanded;
+  font-display: swap;
+  src: url(/assets/675d77951c9d7c.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'TikTok Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-stretch: expanded;
+  font-display: swap;
+  src: url(/assets/bf99a5342f6094.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'TikTok Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: condensed;
+  font-display: swap;
+  src: url(/assets/0fa97347867ab9.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'TikTok Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: semi-condensed;
+  font-display: swap;
+  src: url(/assets/8a414ec632a3e9.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'TikTok Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(/assets/03a2025ba29543.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'TikTok Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: semi-expanded;
+  font-display: swap;
+  src: url(/assets/6447c4b0015ada.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'TikTok Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: expanded;
+  font-display: swap;
+  src: url(/assets/0a43e966331d3f.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'TikTok Sans';
+  font-style: normal;
+  font-weight: 800;
+  font-stretch: condensed;
+  font-display: swap;
+  src: url(/assets/54ece9b2faa79b.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'TikTok Sans';
+  font-style: normal;
+  font-weight: 800;
+  font-stretch: semi-condensed;
+  font-display: swap;
+  src: url(/assets/01560488d8c96f.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'TikTok Sans';
+  font-style: normal;
+  font-weight: 800;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(/assets/817bafadea25bb.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'TikTok Sans';
+  font-style: normal;
+  font-weight: 800;
+  font-stretch: semi-expanded;
+  font-display: swap;
+  src: url(/assets/dcb21573114322.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'TikTok Sans';
+  font-style: normal;
+  font-weight: 800;
+  font-stretch: expanded;
+  font-display: swap;
+  src: url(/assets/f301791b8c4f05.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'TikTok Sans';
+  font-style: normal;
+  font-weight: 900;
+  font-stretch: condensed;
+  font-display: swap;
+  src: url(/assets/9ac6c83ec41d06.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'TikTok Sans';
+  font-style: normal;
+  font-weight: 900;
+  font-stretch: semi-condensed;
+  font-display: swap;
+  src: url(/assets/1c432ff2685bc0.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'TikTok Sans';
+  font-style: normal;
+  font-weight: 900;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(/assets/c2aaba7ad4edc8.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'TikTok Sans';
+  font-style: normal;
+  font-weight: 900;
+  font-stretch: semi-expanded;
+  font-display: swap;
+  src: url(/assets/10e04c0a57d716.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'TikTok Sans';
+  font-style: normal;
+  font-weight: 900;
+  font-stretch: expanded;
+  font-display: swap;
+  src: url(/assets/0e48abadece6bd.ttf) format('truetype');
+}
