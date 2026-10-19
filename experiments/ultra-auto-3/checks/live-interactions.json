@@ -1,0 +1,612 @@
+[
+  {
+    "key": "home",
+    "width": 360,
+    "open": true,
+    "dialogOverflow": false,
+    "phoneLinks": [
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640"
+    ],
+    "closed": true,
+    "menu": true,
+    "menuClosed": true
+  },
+  {
+    "key": "home",
+    "width": 390,
+    "open": true,
+    "dialogOverflow": false,
+    "phoneLinks": [
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640"
+    ],
+    "closed": true,
+    "menu": true,
+    "menuClosed": true
+  },
+  {
+    "key": "home",
+    "width": 430,
+    "open": true,
+    "dialogOverflow": false,
+    "phoneLinks": [
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640"
+    ],
+    "closed": true,
+    "menu": true,
+    "menuClosed": true
+  },
+  {
+    "key": "home",
+    "width": 1440,
+    "open": true,
+    "dialogOverflow": false,
+    "phoneLinks": [
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640"
+    ],
+    "closed": true
+  },
+  {
+    "key": "zeekr",
+    "width": 360,
+    "open": true,
+    "dialogOverflow": false,
+    "phoneLinks": [
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640"
+    ],
+    "closed": true,
+    "menu": true,
+    "menuClosed": true
+  },
+  {
+    "key": "zeekr",
+    "width": 390,
+    "open": true,
+    "dialogOverflow": false,
+    "phoneLinks": [
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640"
+    ],
+    "closed": true,
+    "menu": true,
+    "menuClosed": true
+  },
+  {
+    "key": "zeekr",
+    "width": 430,
+    "open": true,
+    "dialogOverflow": false,
+    "phoneLinks": [
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640"
+    ],
+    "closed": true,
+    "menu": true,
+    "menuClosed": true
+  },
+  {
+    "key": "zeekr",
+    "width": 1440,
+    "open": true,
+    "dialogOverflow": false,
+    "phoneLinks": [
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640"
+    ],
+    "closed": true
+  },
+  {
+    "key": "li-auto",
+    "width": 360,
+    "open": true,
+    "dialogOverflow": false,
+    "phoneLinks": [
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640"
+    ],
+    "closed": true,
+    "menu": true,
+    "menuClosed": true
+  },
+  {
+    "key": "li-auto",
+    "width": 390,
+    "open": true,
+    "dialogOverflow": false,
+    "phoneLinks": [
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640"
+    ],
+    "closed": true,
+    "menu": true,
+    "menuClosed": true
+  },
+  {
+    "key": "li-auto",
+    "width": 430,
+    "open": true,
+    "dialogOverflow": false,
+    "phoneLinks": [
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640"
+    ],
+    "closed": true,
+    "menu": true,
+    "menuClosed": true
+  },
+  {
+    "key": "li-auto",
+    "width": 1440,
+    "open": true,
+    "dialogOverflow": false,
+    "phoneLinks": [
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640"
+    ],
+    "closed": true
+  },
+  {
+    "key": "voyah",
+    "width": 360,
+    "open": true,
+    "dialogOverflow": false,
+    "phoneLinks": [
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640"
+    ],
+    "closed": true,
+    "menu": true,
+    "menuClosed": true
+  },
+  {
+    "key": "voyah",
+    "width": 390,
+    "open": true,
+    "dialogOverflow": false,
+    "phoneLinks": [
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640"
+    ],
+    "closed": true,
+    "menu": true,
+    "menuClosed": true
+  },
+  {
+    "key": "voyah",
+    "width": 430,
+    "open": true,
+    "dialogOverflow": false,
+    "phoneLinks": [
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640"
+    ],
+    "closed": true,
+    "menu": true,
+    "menuClosed": true
+  },
+  {
+    "key": "voyah",
+    "width": 1440,
+    "open": true,
+    "dialogOverflow": false,
+    "phoneLinks": [
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640"
+    ],
+    "closed": true
+  },
+  {
+    "key": "geely",
+    "width": 360,
+    "open": true,
+    "dialogOverflow": false,
+    "phoneLinks": [
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640"
+    ],
+    "closed": true,
+    "menu": true,
+    "menuClosed": true
+  },
+  {
+    "key": "geely",
+    "width": 390,
+    "open": true,
+    "dialogOverflow": false,
+    "phoneLinks": [
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640"
+    ],
+    "closed": true,
+    "menu": true,
+    "menuClosed": true
+  },
+  {
+    "key": "geely",
+    "width": 430,
+    "open": true,
+    "dialogOverflow": false,
+    "phoneLinks": [
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640"
+    ],
+    "closed": true,
+    "menu": true,
+    "menuClosed": true
+  },
+  {
+    "key": "geely",
+    "width": 1440,
+    "open": true,
+    "dialogOverflow": false,
+    "phoneLinks": [
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640"
+    ],
+    "closed": true
+  },
+  {
+    "key": "zeekr-001",
+    "width": 360,
+    "open": true,
+    "dialogOverflow": false,
+    "phoneLinks": [
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640"
+    ],
+    "closed": true,
+    "menu": true,
+    "menuClosed": true
+  },
+  {
+    "key": "zeekr-001",
+    "width": 390,
+    "open": true,
+    "dialogOverflow": false,
+    "phoneLinks": [
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640"
+    ],
+    "closed": true,
+    "menu": true,
+    "menuClosed": true
+  },
+  {
+    "key": "zeekr-001",
+    "width": 430,
+    "open": true,
+    "dialogOverflow": false,
+    "phoneLinks": [
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640"
+    ],
+    "closed": true,
+    "menu": true,
+    "menuClosed": true
+  },
+  {
+    "key": "zeekr-001",
+    "width": 1440,
+    "open": true,
+    "dialogOverflow": false,
+    "phoneLinks": [
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640"
+    ],
+    "closed": true
+  },
+  {
+    "key": "zeekr-9x",
+    "width": 360,
+    "open": true,
+    "dialogOverflow": false,
+    "phoneLinks": [
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640"
+    ],
+    "closed": true,
+    "menu": true,
+    "menuClosed": true
+  },
+  {
+    "key": "zeekr-9x",
+    "width": 390,
+    "open": true,
+    "dialogOverflow": false,
+    "phoneLinks": [
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640"
+    ],
+    "closed": true,
+    "menu": true,
+    "menuClosed": true
+  },
+  {
+    "key": "zeekr-9x",
+    "width": 430,
+    "open": true,
+    "dialogOverflow": false,
+    "phoneLinks": [
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640"
+    ],
+    "closed": true,
+    "menu": true,
+    "menuClosed": true
+  },
+  {
+    "key": "zeekr-9x",
+    "width": 1440,
+    "open": true,
+    "dialogOverflow": false,
+    "phoneLinks": [
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640"
+    ],
+    "closed": true
+  },
+  {
+    "key": "service-vvb",
+    "width": 360,
+    "open": true,
+    "dialogOverflow": false,
+    "phoneLinks": [
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640"
+    ],
+    "closed": true,
+    "menu": true,
+    "menuClosed": true
+  },
+  {
+    "key": "service-vvb",
+    "width": 390,
+    "open": true,
+    "dialogOverflow": false,
+    "phoneLinks": [
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640"
+    ],
+    "closed": true,
+    "menu": true,
+    "menuClosed": true
+  },
+  {
+    "key": "service-vvb",
+    "width": 430,
+    "open": true,
+    "dialogOverflow": false,
+    "phoneLinks": [
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640"
+    ],
+    "closed": true,
+    "menu": true,
+    "menuClosed": true
+  },
+  {
+    "key": "service-vvb",
+    "width": 1440,
+    "open": true,
+    "dialogOverflow": false,
+    "phoneLinks": [
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640"
+    ],
+    "closed": true
+  },
+  {
+    "key": "service-diagnostics",
+    "width": 360,
+    "open": true,
+    "dialogOverflow": false,
+    "phoneLinks": [
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640"
+    ],
+    "closed": true,
+    "menu": true,
+    "menuClosed": true
+  },
+  {
+    "key": "service-diagnostics",
+    "width": 390,
+    "open": true,
+    "dialogOverflow": false,
+    "phoneLinks": [
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640"
+    ],
+    "closed": true,
+    "menu": true,
+    "menuClosed": true
+  },
+  {
+    "key": "service-diagnostics",
+    "width": 430,
+    "open": true,
+    "dialogOverflow": false,
+    "phoneLinks": [
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640"
+    ],
+    "closed": true,
+    "menu": true,
+    "menuClosed": true
+  },
+  {
+    "key": "service-diagnostics",
+    "width": 1440,
+    "open": true,
+    "dialogOverflow": false,
+    "phoneLinks": [
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640",
+      "tel:+79990036640"
+    ],
+    "closed": true
+  }
+]

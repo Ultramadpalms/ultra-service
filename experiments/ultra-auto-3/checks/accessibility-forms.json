@@ -1,0 +1,1513 @@
+[
+  {
+    "key": "home",
+    "url": "https://ultraserviceauto.ru/",
+    "axe": {
+      "violations": [
+        {
+          "id": "aria-hidden-focus",
+          "impact": "serious",
+          "description": "Ensure aria-hidden elements are not focusable nor contain focusable elements",
+          "nodes": [
+            {
+              "target": [
+                "#mobile-menu"
+              ],
+              "summary": "Fix all of the following:\n  Focusable content should be disabled or be removed from the DOM\n  Focusable content should have tabindex=\"-1\" or be removed from the DOM"
+            },
+            {
+              "target": [
+                "#gallery-lightbox"
+              ],
+              "summary": "Fix all of the following:\n  Focusable content should be disabled or be removed from the DOM"
+            }
+          ]
+        },
+        {
+          "id": "aria-prohibited-attr",
+          "impact": "serious",
+          "description": "Ensure ARIA attributes are not prohibited for an element's role",
+          "nodes": [
+            {
+              "target": [
+                ".reviews__pair:nth-child(1) > .review-card.js-reveal > .review-card__header > .review-card__stars[aria-label=\"5 звёзд из 5\"]"
+              ],
+              "summary": "Fix all of the following:\n  aria-label attribute cannot be used on a div with no valid role attribute."
+            },
+            {
+              "target": [
+                ".reviews__pair:nth-child(2) > .review-card.js-reveal > .review-card__header > .review-card__stars[aria-label=\"5 звёзд из 5\"]"
+              ],
+              "summary": "Fix all of the following:\n  aria-label attribute cannot be used on a div with no valid role attribute."
+            }
+          ]
+        }
+      ],
+      "incomplete": [
+        "aria-prohibited-attr",
+        "color-contrast",
+        "link-in-text-block"
+      ],
+      "passes": 26
+    },
+    "form": {
+      "visible": true,
+      "labels": [
+        "Способ связи *",
+        "Контакт *",
+        "Ваше имя (необязательно)",
+        "Номер телефона",
+        "Система / направление",
+        "Автомобиль: марка и модель",
+        "Что произошло?",
+        "Другие симптомы (необязательно)"
+      ],
+      "fields": [
+        {
+          "name": "contact_method",
+          "type": "select-one",
+          "required": false
+        },
+        {
+          "name": "contact",
+          "type": "text",
+          "required": false
+        },
+        {
+          "name": "name",
+          "type": "text",
+          "required": false
+        },
+        {
+          "name": "phone",
+          "type": "tel",
+          "required": false
+        },
+        {
+          "name": "system",
+          "type": "text",
+          "required": false
+        },
+        {
+          "name": "vehicle",
+          "type": "text",
+          "required": false
+        },
+        {
+          "name": "symptom",
+          "type": "textarea",
+          "required": false
+        },
+        {
+          "name": "",
+          "type": "select-one",
+          "required": false
+        }
+      ],
+      "action": null,
+      "technicalService": "",
+      "box": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 900,
+        "top": 0,
+        "right": 390,
+        "bottom": 900,
+        "left": 0
+      }
+    },
+    "escape": true,
+    "menu": "false",
+    "targets": [
+      {
+        "text": "",
+        "class": "site-header__burger",
+        "width": 50,
+        "height": 28
+      },
+      {
+        "text": "",
+        "class": "brands__arrow brands__arrow--prev",
+        "width": 32,
+        "height": 32
+      },
+      {
+        "text": "",
+        "class": "brands__arrow brands__arrow--next",
+        "width": 32,
+        "height": 32
+      },
+      {
+        "text": "Все марки →",
+        "class": "",
+        "width": 113.046875,
+        "height": 23
+      },
+      {
+        "text": "",
+        "class": "nav-btn nav-btn--prev",
+        "width": 64,
+        "height": 38
+      },
+      {
+        "text": "",
+        "class": "nav-btn nav-btn--next",
+        "width": 64,
+        "height": 38
+      },
+      {
+        "text": "",
+        "class": "service-item__arrow-btn",
+        "width": 40,
+        "height": 40
+      },
+      {
+        "text": "",
+        "class": "service-item__arrow-btn",
+        "width": 40,
+        "height": 40
+      },
+      {
+        "text": "Подробнее о работах →",
+        "class": "",
+        "width": 183.8125,
+        "height": 24
+      },
+      {
+        "text": "Подробнее о работах →",
+        "class": "",
+        "width": 183.8125,
+        "height": 24
+      },
+      {
+        "text": "Подробнее о работах →",
+        "class": "",
+        "width": 183.8125,
+        "height": 24
+      },
+      {
+        "text": "Подробнее о работах →",
+        "class": "",
+        "width": 183.8125,
+        "height": 24
+      },
+      {
+        "text": "",
+        "class": "btn btn--circle",
+        "width": 38,
+        "height": 38
+      },
+      {
+        "text": "Читать целиком",
+        "class": "review-card__more",
+        "width": 276,
+        "height": 24
+      },
+      {
+        "text": "",
+        "class": "btn btn--circle",
+        "width": 38,
+        "height": 38
+      }
+    ]
+  },
+  {
+    "key": "zeekr",
+    "url": "https://ultraserviceauto.ru/brands/zeekr",
+    "axe": {
+      "violations": [
+        {
+          "id": "aria-hidden-focus",
+          "impact": "serious",
+          "description": "Ensure aria-hidden elements are not focusable nor contain focusable elements",
+          "nodes": [
+            {
+              "target": [
+                "#mobile-menu"
+              ],
+              "summary": "Fix all of the following:\n  Focusable content should be disabled or be removed from the DOM\n  Focusable content should have tabindex=\"-1\" or be removed from the DOM"
+            }
+          ]
+        }
+      ],
+      "incomplete": [
+        "aria-prohibited-attr",
+        "color-contrast",
+        "link-in-text-block"
+      ],
+      "passes": 21
+    },
+    "form": {
+      "visible": true,
+      "labels": [
+        "Способ связи *",
+        "Контакт *",
+        "Ваше имя (необязательно)",
+        "Номер телефона",
+        "Система / направление",
+        "Автомобиль: марка и модель",
+        "Что произошло?"
+      ],
+      "fields": [
+        {
+          "name": "contact_method",
+          "type": "select-one",
+          "required": false
+        },
+        {
+          "name": "contact",
+          "type": "text",
+          "required": false
+        },
+        {
+          "name": "name",
+          "type": "text",
+          "required": false
+        },
+        {
+          "name": "phone",
+          "type": "tel",
+          "required": false
+        },
+        {
+          "name": "system",
+          "type": "text",
+          "required": false
+        },
+        {
+          "name": "vehicle",
+          "type": "text",
+          "required": false
+        },
+        {
+          "name": "symptom",
+          "type": "textarea",
+          "required": false
+        }
+      ],
+      "action": null,
+      "technicalService": "",
+      "box": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 900,
+        "top": 0,
+        "right": 390,
+        "bottom": 900,
+        "left": 0
+      }
+    },
+    "escape": true,
+    "menu": "false",
+    "targets": [
+      {
+        "text": "",
+        "class": "site-header__burger",
+        "width": 50,
+        "height": 28
+      },
+      {
+        "text": "Zeekr",
+        "class": "",
+        "width": 37.1875,
+        "height": 44
+      },
+      {
+        "text": "Zeekr 001",
+        "class": "",
+        "width": 95.4375,
+        "height": 26
+      },
+      {
+        "text": "Zeekr 007",
+        "class": "",
+        "width": 96.1875,
+        "height": 26
+      },
+      {
+        "text": "Zeekr 009",
+        "class": "",
+        "width": 98.703125,
+        "height": 26
+      },
+      {
+        "text": "Zeekr X",
+        "class": "",
+        "width": 74.28125,
+        "height": 26
+      },
+      {
+        "text": "Zeekr 7X",
+        "class": "",
+        "width": 85.0625,
+        "height": 26
+      },
+      {
+        "text": "Zeekr 9X",
+        "class": "",
+        "width": 85.96875,
+        "height": 26
+      },
+      {
+        "text": "Zeekr 8X",
+        "class": "",
+        "width": 86.953125,
+        "height": 26
+      },
+      {
+        "text": "Zeekr 001",
+        "class": "",
+        "width": 73.4375,
+        "height": 21
+      },
+      {
+        "text": "Zeekr 9X",
+        "class": "",
+        "width": 66.109375,
+        "height": 21
+      },
+      {
+        "text": "",
+        "class": "mobile-menu__close",
+        "width": 31,
+        "height": 31
+      },
+      {
+        "text": "",
+        "class": "",
+        "width": 42,
+        "height": 44
+      },
+      {
+        "text": "",
+        "class": "",
+        "width": 42,
+        "height": 44
+      },
+      {
+        "text": "",
+        "class": "",
+        "width": 42,
+        "height": 44
+      }
+    ]
+  },
+  {
+    "key": "li-auto",
+    "url": "https://ultraserviceauto.ru/brands/li-auto",
+    "axe": {
+      "violations": [
+        {
+          "id": "aria-hidden-focus",
+          "impact": "serious",
+          "description": "Ensure aria-hidden elements are not focusable nor contain focusable elements",
+          "nodes": [
+            {
+              "target": [
+                "#mobile-menu"
+              ],
+              "summary": "Fix all of the following:\n  Focusable content should be disabled or be removed from the DOM\n  Focusable content should have tabindex=\"-1\" or be removed from the DOM"
+            }
+          ]
+        }
+      ],
+      "incomplete": [
+        "aria-prohibited-attr",
+        "color-contrast",
+        "link-in-text-block"
+      ],
+      "passes": 21
+    },
+    "form": {
+      "visible": true,
+      "labels": [
+        "Способ связи *",
+        "Контакт *",
+        "Ваше имя (необязательно)",
+        "Номер телефона",
+        "Система / направление",
+        "Автомобиль: марка и модель",
+        "Что произошло?"
+      ],
+      "fields": [
+        {
+          "name": "contact_method",
+          "type": "select-one",
+          "required": false
+        },
+        {
+          "name": "contact",
+          "type": "text",
+          "required": false
+        },
+        {
+          "name": "name",
+          "type": "text",
+          "required": false
+        },
+        {
+          "name": "phone",
+          "type": "tel",
+          "required": false
+        },
+        {
+          "name": "system",
+          "type": "text",
+          "required": false
+        },
+        {
+          "name": "vehicle",
+          "type": "text",
+          "required": false
+        },
+        {
+          "name": "symptom",
+          "type": "textarea",
+          "required": false
+        }
+      ],
+      "action": null,
+      "technicalService": "",
+      "box": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 900,
+        "top": 0,
+        "right": 390,
+        "bottom": 900,
+        "left": 0
+      }
+    },
+    "escape": true,
+    "menu": "false",
+    "targets": [
+      {
+        "text": "",
+        "class": "site-header__burger",
+        "width": 50,
+        "height": 28
+      },
+      {
+        "text": "Li Auto L6",
+        "class": "",
+        "width": 94.046875,
+        "height": 26
+      },
+      {
+        "text": "Li Auto L7",
+        "class": "",
+        "width": 92.078125,
+        "height": 26
+      },
+      {
+        "text": "Li Auto L8",
+        "class": "",
+        "width": 94.703125,
+        "height": 26
+      },
+      {
+        "text": "Li Auto L9",
+        "class": "",
+        "width": 93.09375,
+        "height": 26
+      },
+      {
+        "text": "Li Auto One",
+        "class": "",
+        "width": 110.546875,
+        "height": 26
+      },
+      {
+        "text": "Li Auto i6",
+        "class": "",
+        "width": 88.796875,
+        "height": 26
+      },
+      {
+        "text": "Li Auto i8",
+        "class": "",
+        "width": 89.296875,
+        "height": 26
+      },
+      {
+        "text": "Li Auto i9",
+        "class": "",
+        "width": 88.796875,
+        "height": 26
+      },
+      {
+        "text": "Li Auto MEGA",
+        "class": "",
+        "width": 129.3125,
+        "height": 26
+      },
+      {
+        "text": "",
+        "class": "mobile-menu__close",
+        "width": 31,
+        "height": 31
+      },
+      {
+        "text": "",
+        "class": "",
+        "width": 42,
+        "height": 44
+      },
+      {
+        "text": "",
+        "class": "",
+        "width": 42,
+        "height": 44
+      },
+      {
+        "text": "",
+        "class": "",
+        "width": 42,
+        "height": 44
+      },
+      {
+        "text": "",
+        "class": "callback-modal__close",
+        "width": 34.91998291015625,
+        "height": 34.91999816894531
+      }
+    ]
+  },
+  {
+    "key": "voyah",
+    "url": "https://ultraserviceauto.ru/brands/voyah",
+    "axe": {
+      "violations": [
+        {
+          "id": "aria-hidden-focus",
+          "impact": "serious",
+          "description": "Ensure aria-hidden elements are not focusable nor contain focusable elements",
+          "nodes": [
+            {
+              "target": [
+                "#mobile-menu"
+              ],
+              "summary": "Fix all of the following:\n  Focusable content should be disabled or be removed from the DOM\n  Focusable content should have tabindex=\"-1\" or be removed from the DOM"
+            }
+          ]
+        }
+      ],
+      "incomplete": [
+        "aria-prohibited-attr",
+        "color-contrast",
+        "link-in-text-block"
+      ],
+      "passes": 21
+    },
+    "form": {
+      "visible": true,
+      "labels": [
+        "Способ связи *",
+        "Контакт *",
+        "Ваше имя (необязательно)",
+        "Номер телефона",
+        "Система / направление",
+        "Автомобиль: марка и модель",
+        "Что произошло?"
+      ],
+      "fields": [
+        {
+          "name": "contact_method",
+          "type": "select-one",
+          "required": false
+        },
+        {
+          "name": "contact",
+          "type": "text",
+          "required": false
+        },
+        {
+          "name": "name",
+          "type": "text",
+          "required": false
+        },
+        {
+          "name": "phone",
+          "type": "tel",
+          "required": false
+        },
+        {
+          "name": "system",
+          "type": "text",
+          "required": false
+        },
+        {
+          "name": "vehicle",
+          "type": "text",
+          "required": false
+        },
+        {
+          "name": "symptom",
+          "type": "textarea",
+          "required": false
+        }
+      ],
+      "action": null,
+      "technicalService": "",
+      "box": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 900,
+        "top": 0,
+        "right": 390,
+        "bottom": 900,
+        "left": 0
+      }
+    },
+    "escape": true,
+    "menu": "false",
+    "targets": [
+      {
+        "text": "",
+        "class": "site-header__burger",
+        "width": 50,
+        "height": 28
+      },
+      {
+        "text": "Voyah",
+        "class": "",
+        "width": 40.09375,
+        "height": 44
+      },
+      {
+        "text": "Voyah Free",
+        "class": "",
+        "width": 104.65625,
+        "height": 26
+      },
+      {
+        "text": "Voyah Dream",
+        "class": "",
+        "width": 125.8125,
+        "height": 26
+      },
+      {
+        "text": "Voyah Passion",
+        "class": "",
+        "width": 136.859375,
+        "height": 26
+      },
+      {
+        "text": "",
+        "class": "mobile-menu__close",
+        "width": 31,
+        "height": 31
+      },
+      {
+        "text": "",
+        "class": "",
+        "width": 42,
+        "height": 44
+      },
+      {
+        "text": "",
+        "class": "",
+        "width": 42,
+        "height": 44
+      },
+      {
+        "text": "",
+        "class": "",
+        "width": 42,
+        "height": 44
+      },
+      {
+        "text": "",
+        "class": "callback-modal__close",
+        "width": 34.91998291015625,
+        "height": 34.91999816894531
+      },
+      {
+        "text": "обработку персональных данных",
+        "class": "",
+        "width": 246.21328735351562,
+        "height": 39.1788330078125
+      }
+    ]
+  },
+  {
+    "key": "geely",
+    "url": "https://ultraserviceauto.ru/brands/geely",
+    "axe": {
+      "violations": [
+        {
+          "id": "aria-hidden-focus",
+          "impact": "serious",
+          "description": "Ensure aria-hidden elements are not focusable nor contain focusable elements",
+          "nodes": [
+            {
+              "target": [
+                "#mobile-menu"
+              ],
+              "summary": "Fix all of the following:\n  Focusable content should be disabled or be removed from the DOM\n  Focusable content should have tabindex=\"-1\" or be removed from the DOM"
+            }
+          ]
+        }
+      ],
+      "incomplete": [
+        "aria-prohibited-attr",
+        "color-contrast",
+        "link-in-text-block"
+      ],
+      "passes": 21
+    },
+    "form": {
+      "visible": true,
+      "labels": [
+        "Способ связи *",
+        "Контакт *",
+        "Ваше имя (необязательно)",
+        "Номер телефона",
+        "Система / направление",
+        "Автомобиль: марка и модель",
+        "Что произошло?"
+      ],
+      "fields": [
+        {
+          "name": "contact_method",
+          "type": "select-one",
+          "required": false
+        },
+        {
+          "name": "contact",
+          "type": "text",
+          "required": false
+        },
+        {
+          "name": "name",
+          "type": "text",
+          "required": false
+        },
+        {
+          "name": "phone",
+          "type": "tel",
+          "required": false
+        },
+        {
+          "name": "system",
+          "type": "text",
+          "required": false
+        },
+        {
+          "name": "vehicle",
+          "type": "text",
+          "required": false
+        },
+        {
+          "name": "symptom",
+          "type": "textarea",
+          "required": false
+        }
+      ],
+      "action": null,
+      "technicalService": "",
+      "box": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 900,
+        "top": 0,
+        "right": 390,
+        "bottom": 900,
+        "left": 0
+      }
+    },
+    "escape": true,
+    "menu": "false",
+    "targets": [
+      {
+        "text": "",
+        "class": "site-header__burger",
+        "width": 50,
+        "height": 28
+      },
+      {
+        "text": "Geely",
+        "class": "",
+        "width": 37.515625,
+        "height": 44
+      },
+      {
+        "text": "Geely Monjaro",
+        "class": "",
+        "width": 138.8125,
+        "height": 26
+      },
+      {
+        "text": "Geely EX5 EM-i",
+        "class": "",
+        "width": 143.90625,
+        "height": 26
+      },
+      {
+        "text": "Geely Atlas New",
+        "class": "",
+        "width": 154.59375,
+        "height": 26
+      },
+      {
+        "text": "Geely Cityray",
+        "class": "",
+        "width": 128.875,
+        "height": 26
+      },
+      {
+        "text": "Geely EX5",
+        "class": "",
+        "width": 97.59375,
+        "height": 26
+      },
+      {
+        "text": "Geely Preface",
+        "class": "",
+        "width": 133.28125,
+        "height": 26
+      },
+      {
+        "text": "Geely Okavango",
+        "class": "",
+        "width": 157.015625,
+        "height": 26
+      },
+      {
+        "text": "Geely Emgrand",
+        "class": "",
+        "width": 144.171875,
+        "height": 26
+      },
+      {
+        "text": "Geely Emgrand GS",
+        "class": "",
+        "width": 176.59375,
+        "height": 26
+      },
+      {
+        "text": "Geely Emgrand X7",
+        "class": "",
+        "width": 174.328125,
+        "height": 26
+      },
+      {
+        "text": "Geely Atlas",
+        "class": "",
+        "width": 107.359375,
+        "height": 26
+      },
+      {
+        "text": "Geely Atlas Pro",
+        "class": "",
+        "width": 144.734375,
+        "height": 26
+      },
+      {
+        "text": "Geely Coolray",
+        "class": "",
+        "width": 134.09375,
+        "height": 26
+      }
+    ]
+  },
+  {
+    "key": "zeekr-001",
+    "url": "https://ultraserviceauto.ru/brands/zeekr/001",
+    "axe": {
+      "violations": [
+        {
+          "id": "aria-hidden-focus",
+          "impact": "serious",
+          "description": "Ensure aria-hidden elements are not focusable nor contain focusable elements",
+          "nodes": [
+            {
+              "target": [
+                "#mobile-menu"
+              ],
+              "summary": "Fix all of the following:\n  Focusable content should be disabled or be removed from the DOM\n  Focusable content should have tabindex=\"-1\" or be removed from the DOM"
+            }
+          ]
+        }
+      ],
+      "incomplete": [
+        "aria-prohibited-attr",
+        "color-contrast",
+        "link-in-text-block"
+      ],
+      "passes": 23
+    },
+    "form": {
+      "visible": true,
+      "labels": [
+        "Способ связи *",
+        "Контакт *",
+        "Ваше имя (необязательно)",
+        "Номер телефона",
+        "Система / направление",
+        "Автомобиль: марка и модель",
+        "Что произошло?"
+      ],
+      "fields": [
+        {
+          "name": "contact_method",
+          "type": "select-one",
+          "required": false
+        },
+        {
+          "name": "contact",
+          "type": "text",
+          "required": false
+        },
+        {
+          "name": "name",
+          "type": "text",
+          "required": false
+        },
+        {
+          "name": "phone",
+          "type": "tel",
+          "required": false
+        },
+        {
+          "name": "system",
+          "type": "text",
+          "required": false
+        },
+        {
+          "name": "vehicle",
+          "type": "text",
+          "required": false
+        },
+        {
+          "name": "symptom",
+          "type": "textarea",
+          "required": false
+        }
+      ],
+      "action": null,
+      "technicalService": "",
+      "box": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 900,
+        "top": 0,
+        "right": 390,
+        "bottom": 900,
+        "left": 0
+      }
+    },
+    "escape": true,
+    "menu": "false",
+    "targets": [
+      {
+        "text": "",
+        "class": "site-header__burger",
+        "width": 50,
+        "height": 28
+      },
+      {
+        "text": "Zeekr",
+        "class": "",
+        "width": 35.796875,
+        "height": 44
+      },
+      {
+        "text": "",
+        "class": "mobile-menu__close",
+        "width": 31,
+        "height": 31
+      },
+      {
+        "text": "",
+        "class": "",
+        "width": 42,
+        "height": 44
+      },
+      {
+        "text": "",
+        "class": "",
+        "width": 42,
+        "height": 44
+      },
+      {
+        "text": "",
+        "class": "",
+        "width": 42,
+        "height": 44
+      },
+      {
+        "text": "",
+        "class": "callback-modal__close",
+        "width": 34.91998291015625,
+        "height": 34.91999816894531
+      },
+      {
+        "text": "обработку персональных данных",
+        "class": "",
+        "width": 246.21328735351562,
+        "height": 39.1788330078125
+      }
+    ]
+  },
+  {
+    "key": "zeekr-9x",
+    "url": "https://ultraserviceauto.ru/brands/zeekr/9x",
+    "axe": {
+      "violations": [
+        {
+          "id": "aria-hidden-focus",
+          "impact": "serious",
+          "description": "Ensure aria-hidden elements are not focusable nor contain focusable elements",
+          "nodes": [
+            {
+              "target": [
+                "#mobile-menu"
+              ],
+              "summary": "Fix all of the following:\n  Focusable content should be disabled or be removed from the DOM\n  Focusable content should have tabindex=\"-1\" or be removed from the DOM"
+            }
+          ]
+        }
+      ],
+      "incomplete": [
+        "aria-prohibited-attr",
+        "color-contrast",
+        "link-in-text-block"
+      ],
+      "passes": 23
+    },
+    "form": {
+      "visible": true,
+      "labels": [
+        "Способ связи *",
+        "Контакт *",
+        "Ваше имя (необязательно)",
+        "Номер телефона",
+        "Система / направление",
+        "Автомобиль: марка и модель",
+        "Что произошло?"
+      ],
+      "fields": [
+        {
+          "name": "contact_method",
+          "type": "select-one",
+          "required": false
+        },
+        {
+          "name": "contact",
+          "type": "text",
+          "required": false
+        },
+        {
+          "name": "name",
+          "type": "text",
+          "required": false
+        },
+        {
+          "name": "phone",
+          "type": "tel",
+          "required": false
+        },
+        {
+          "name": "system",
+          "type": "text",
+          "required": false
+        },
+        {
+          "name": "vehicle",
+          "type": "text",
+          "required": false
+        },
+        {
+          "name": "symptom",
+          "type": "textarea",
+          "required": false
+        }
+      ],
+      "action": null,
+      "technicalService": "",
+      "box": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 900,
+        "top": 0,
+        "right": 390,
+        "bottom": 900,
+        "left": 0
+      }
+    },
+    "escape": true,
+    "menu": "false",
+    "targets": [
+      {
+        "text": "",
+        "class": "site-header__burger",
+        "width": 50,
+        "height": 28
+      },
+      {
+        "text": "Zeekr",
+        "class": "",
+        "width": 35.796875,
+        "height": 44
+      },
+      {
+        "text": "",
+        "class": "mobile-menu__close",
+        "width": 31,
+        "height": 31
+      },
+      {
+        "text": "",
+        "class": "",
+        "width": 42,
+        "height": 44
+      },
+      {
+        "text": "",
+        "class": "",
+        "width": 42,
+        "height": 44
+      },
+      {
+        "text": "",
+        "class": "",
+        "width": 42,
+        "height": 44
+      },
+      {
+        "text": "",
+        "class": "callback-modal__close",
+        "width": 34.91998291015625,
+        "height": 34.91999816894531
+      },
+      {
+        "text": "обработку персональных данных",
+        "class": "",
+        "width": 246.21328735351562,
+        "height": 39.1788330078125
+      }
+    ]
+  },
+  {
+    "key": "service-vvb",
+    "url": "https://ultraserviceauto.ru/brands/zeekr/001/remont-i-obsluzhivanie-vvb-na-zeekr-001",
+    "axe": {
+      "violations": [
+        {
+          "id": "aria-hidden-focus",
+          "impact": "serious",
+          "description": "Ensure aria-hidden elements are not focusable nor contain focusable elements",
+          "nodes": [
+            {
+              "target": [
+                "#mobile-menu"
+              ],
+              "summary": "Fix all of the following:\n  Focusable content should be disabled or be removed from the DOM\n  Focusable content should have tabindex=\"-1\" or be removed from the DOM"
+            }
+          ]
+        }
+      ],
+      "incomplete": [
+        "aria-prohibited-attr",
+        "color-contrast",
+        "link-in-text-block"
+      ],
+      "passes": 23
+    },
+    "form": {
+      "visible": true,
+      "labels": [
+        "Способ связи *",
+        "Контакт *",
+        "Ваше имя (необязательно)",
+        "Номер телефона",
+        "Система / направление",
+        "Автомобиль: марка и модель",
+        "Что произошло?"
+      ],
+      "fields": [
+        {
+          "name": "contact_method",
+          "type": "select-one",
+          "required": false
+        },
+        {
+          "name": "contact",
+          "type": "text",
+          "required": false
+        },
+        {
+          "name": "name",
+          "type": "text",
+          "required": false
+        },
+        {
+          "name": "phone",
+          "type": "tel",
+          "required": false
+        },
+        {
+          "name": "system",
+          "type": "text",
+          "required": false
+        },
+        {
+          "name": "vehicle",
+          "type": "text",
+          "required": false
+        },
+        {
+          "name": "symptom",
+          "type": "textarea",
+          "required": false
+        }
+      ],
+      "action": null,
+      "technicalService": "HV_BATTERY_REPAIR_SERVICE",
+      "box": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 900,
+        "top": 0,
+        "right": 390,
+        "bottom": 900,
+        "left": 0
+      }
+    },
+    "escape": true,
+    "menu": "false",
+    "targets": [
+      {
+        "text": "",
+        "class": "site-header__burger",
+        "width": 50,
+        "height": 28
+      },
+      {
+        "text": "Zeekr",
+        "class": "",
+        "width": 37.1875,
+        "height": 44
+      },
+      {
+        "text": "",
+        "class": "mobile-menu__close",
+        "width": 31,
+        "height": 31
+      },
+      {
+        "text": "",
+        "class": "",
+        "width": 42,
+        "height": 44
+      },
+      {
+        "text": "",
+        "class": "",
+        "width": 42,
+        "height": 44
+      },
+      {
+        "text": "",
+        "class": "",
+        "width": 42,
+        "height": 44
+      },
+      {
+        "text": "",
+        "class": "callback-modal__close",
+        "width": 34.91998291015625,
+        "height": 34.91999816894531
+      },
+      {
+        "text": "обработку персональных данных",
+        "class": "",
+        "width": 246.21328735351562,
+        "height": 39.1788330078125
+      }
+    ]
+  },
+  {
+    "key": "service-diagnostics",
+    "url": "https://ultraserviceauto.ru/brands/zeekr/001/kompleksnaya-kompyuternaya-diagnostika-zeekr-001",
+    "axe": {
+      "violations": [
+        {
+          "id": "aria-hidden-focus",
+          "impact": "serious",
+          "description": "Ensure aria-hidden elements are not focusable nor contain focusable elements",
+          "nodes": [
+            {
+              "target": [
+                "#mobile-menu"
+              ],
+              "summary": "Fix all of the following:\n  Focusable content should be disabled or be removed from the DOM\n  Focusable content should have tabindex=\"-1\" or be removed from the DOM"
+            }
+          ]
+        }
+      ],
+      "incomplete": [
+        "aria-prohibited-attr",
+        "color-contrast",
+        "link-in-text-block"
+      ],
+      "passes": 23
+    },
+    "form": {
+      "visible": true,
+      "labels": [
+        "Способ связи *",
+        "Контакт *",
+        "Ваше имя (необязательно)",
+        "Номер телефона",
+        "Система / направление",
+        "Автомобиль: марка и модель",
+        "Что произошло?"
+      ],
+      "fields": [
+        {
+          "name": "contact_method",
+          "type": "select-one",
+          "required": false
+        },
+        {
+          "name": "contact",
+          "type": "text",
+          "required": false
+        },
+        {
+          "name": "name",
+          "type": "text",
+          "required": false
+        },
+        {
+          "name": "phone",
+          "type": "tel",
+          "required": false
+        },
+        {
+          "name": "system",
+          "type": "text",
+          "required": false
+        },
+        {
+          "name": "vehicle",
+          "type": "text",
+          "required": false
+        },
+        {
+          "name": "symptom",
+          "type": "textarea",
+          "required": false
+        }
+      ],
+      "action": null,
+      "technicalService": "COMPUTER_DIAGNOSTICS",
+      "box": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 900,
+        "top": 0,
+        "right": 390,
+        "bottom": 900,
+        "left": 0
+      }
+    },
+    "escape": true,
+    "menu": "false",
+    "targets": [
+      {
+        "text": "",
+        "class": "site-header__burger",
+        "width": 50,
+        "height": 28
+      },
+      {
+        "text": "Zeekr",
+        "class": "",
+        "width": 37.1875,
+        "height": 44
+      },
+      {
+        "text": "",
+        "class": "mobile-menu__close",
+        "width": 31,
+        "height": 31
+      },
+      {
+        "text": "",
+        "class": "",
+        "width": 42,
+        "height": 44
+      },
+      {
+        "text": "",
+        "class": "",
+        "width": 42,
+        "height": 44
+      },
+      {
+        "text": "",
+        "class": "",
+        "width": 42,
+        "height": 44
+      },
+      {
+        "text": "",
+        "class": "callback-modal__close",
+        "width": 34.91998291015625,
+        "height": 34.91999816894531
+      },
+      {
+        "text": "обработку персональных данных",
+        "class": "",
+        "width": 246.21328735351562,
+        "height": 39.1788330078125
+      }
+    ]
+  },
+  {
+    "key": "a",
+    "url": "http://127.0.0.1:18973/a/",
+    "axe": {
+      "violations": [],
+      "incomplete": [
+        "link-in-text-block"
+      ],
+      "passes": 20
+    }
+  },
+  {
+    "key": "b",
+    "url": "http://127.0.0.1:18973/b/",
+    "axe": {
+      "violations": [],
+      "incomplete": [
+        "color-contrast",
+        "link-in-text-block"
+      ],
+      "passes": 20
+    }
+  },
+  {
+    "key": "c",
+    "url": "http://127.0.0.1:18973/c/",
+    "axe": {
+      "violations": [],
+      "incomplete": [
+        "link-in-text-block"
+      ],
+      "passes": 20
+    }
+  }
+]

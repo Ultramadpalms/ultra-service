@@ -1,0 +1,132 @@
+{
+  "rows": [
+    {
+      "k": "a",
+      "h1": true,
+      "allServices": true,
+      "allFAQ": true,
+      "allModels": true,
+      "allSymptoms": true,
+      "canonical": 0,
+      "invalidTelegram": true,
+      "validTelegram": true,
+      "zoomOverflow": false
+    },
+    {
+      "k": "b",
+      "h1": true,
+      "allServices": true,
+      "allFAQ": true,
+      "allModels": true,
+      "allSymptoms": true,
+      "canonical": 0,
+      "invalidTelegram": true,
+      "validTelegram": true,
+      "zoomOverflow": false
+    },
+    {
+      "k": "c",
+      "h1": true,
+      "allServices": true,
+      "allFAQ": true,
+      "allModels": true,
+      "allSymptoms": true,
+      "canonical": 0,
+      "invalidTelegram": true,
+      "validTelegram": true,
+      "zoomOverflow": false
+    }
+  ],
+  "links": [
+    {
+      "url": "https://ultraserviceauto.ru/services",
+      "status": 200,
+      "final": "https://ultraserviceauto.ru/services"
+    },
+    {
+      "url": "https://ultraserviceauto.ru/services/diagnostika-remont-i-tekhobsluzhivanie-gibridnykh-avto-i-elektromobilej",
+      "status": 200,
+      "final": "https://ultraserviceauto.ru/services/diagnostika-remont-i-tekhobsluzhivanie-gibridnykh-avto-i-elektromobilej"
+    },
+    {
+      "url": "https://ultraserviceauto.ru/services/rabota-s-ebu-remont-proshivka-klonirovanie-blokov",
+      "status": 200,
+      "final": "https://ultraserviceauto.ru/services/rabota-s-ebu-remont-proshivka-klonirovanie-blokov"
+    },
+    {
+      "url": "https://ultraserviceauto.ru/services/rusifikatsiya-avtomobilej",
+      "status": 200,
+      "final": "https://ultraserviceauto.ru/services/rusifikatsiya-avtomobilej"
+    },
+    {
+      "url": "https://ultraserviceauto.ru/brands",
+      "status": 200,
+      "final": "https://ultraserviceauto.ru/brands"
+    },
+    {
+      "url": "https://ultraserviceauto.ru/brands/zeekr",
+      "status": 200,
+      "final": "https://ultraserviceauto.ru/brands/zeekr"
+    },
+    {
+      "url": "https://ultraserviceauto.ru/brands/li-auto",
+      "status": 200,
+      "final": "https://ultraserviceauto.ru/brands/li-auto"
+    },
+    {
+      "url": "https://ultraserviceauto.ru/brands/voyah",
+      "status": 200,
+      "final": "https://ultraserviceauto.ru/brands/voyah"
+    },
+    {
+      "url": "https://ultraserviceauto.ru/brands/geely",
+      "status": 200,
+      "final": "https://ultraserviceauto.ru/brands/geely"
+    },
+    {
+      "url": "https://ultraserviceauto.ru/brands/zeekr/9x",
+      "status": 200,
+      "final": "https://ultraserviceauto.ru/brands/zeekr/9x"
+    },
+    {
+      "url": "https://ultraserviceauto.ru/brands/zeekr/001",
+      "status": 200,
+      "final": "https://ultraserviceauto.ru/brands/zeekr/001"
+    },
+    {
+      "url": "https://ultraserviceauto.ru/brands/voyah/free",
+      "status": 200,
+      "final": "https://ultraserviceauto.ru/brands/voyah/free"
+    },
+    {
+      "url": "https://ultraserviceauto.ru/brands/changan/uni-k-idd",
+      "status": 200,
+      "final": "https://ultraserviceauto.ru/brands/changan/uni-k-idd"
+    },
+    {
+      "url": "https://ultraserviceauto.ru/#s-work",
+      "status": 200,
+      "final": "https://ultraserviceauto.ru/"
+    },
+    {
+      "url": "https://ultraserviceauto.ru/team",
+      "status": 200,
+      "final": "https://ultraserviceauto.ru/team"
+    },
+    {
+      "url": "https://ultraserviceauto.ru/privacy",
+      "status": 200,
+      "final": "https://ultraserviceauto.ru/privacy"
+    },
+    {
+      "url": "https://ultraserviceauto.ru/reviews",
+      "status": 200,
+      "final": "https://ultraserviceauto.ru/reviews"
+    },
+    {
+      "url": "https://ultraserviceauto.ru/blog",
+      "status": 200,
+      "final": "https://ultraserviceauto.ru/blog"
+    }
+  ]
+}

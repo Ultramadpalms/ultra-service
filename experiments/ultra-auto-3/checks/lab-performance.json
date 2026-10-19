@@ -1,0 +1,198 @@
+{
+  "browser": "155.0.4283.62",
+  "network": "unthrottled; new context per run; 390x900; no analytics/captcha; local previews vs remote live are NOT directly comparable speed scores",
+  "samples": [
+    {
+      "key": "live",
+      "run": 1,
+      "metrics": {
+        "lcp": 2280,
+        "cls": 0.12671513196422918
+      },
+      "nav": {
+        "ttfb": 1388.7000000476837,
+        "load": 3218.300000011921
+      },
+      "resources": {
+        "count": 76,
+        "bytes": 1382047
+      }
+    },
+    {
+      "key": "live",
+      "run": 2,
+      "metrics": {
+        "lcp": 2236,
+        "cls": 0.12671513196422918
+      },
+      "nav": {
+        "ttfb": 1407.2000000476837,
+        "load": 3232.600000023842
+      },
+      "resources": {
+        "count": 76,
+        "bytes": 1382047
+      }
+    },
+    {
+      "key": "live",
+      "run": 3,
+      "metrics": {
+        "lcp": 1472,
+        "cls": 0.12649829208214627
+      },
+      "nav": {
+        "ttfb": 602.0999999642372,
+        "load": 2470.5
+      },
+      "resources": {
+        "count": 76,
+        "bytes": 1382047
+      }
+    },
+    {
+      "key": "a",
+      "run": 1,
+      "metrics": {
+        "lcp": 1024,
+        "cls": 0.0003319162511870845
+      },
+      "nav": {
+        "ttfb": 872.4000000357628,
+        "load": 998.2000000476837
+      },
+      "resources": {
+        "count": 9,
+        "bytes": 781570
+      }
+    },
+    {
+      "key": "a",
+      "run": 2,
+      "metrics": {
+        "lcp": 1044,
+        "cls": 0.0003319162511870845
+      },
+      "nav": {
+        "ttfb": 891,
+        "load": 1020.7000000476837
+      },
+      "resources": {
+        "count": 9,
+        "bytes": 781570
+      }
+    },
+    {
+      "key": "a",
+      "run": 3,
+      "metrics": {
+        "lcp": 992,
+        "cls": 0.0003319162511870845
+      },
+      "nav": {
+        "ttfb": 849.1000000238419,
+        "load": 971
+      },
+      "resources": {
+        "count": 9,
+        "bytes": 781570
+      }
+    },
+    {
+      "key": "b",
+      "run": 1,
+      "metrics": {
+        "lcp": 1036,
+        "cls": 0.0028663564913738527
+      },
+      "nav": {
+        "ttfb": 885.6999999880791,
+        "load": 1074.800000011921
+      },
+      "resources": {
+        "count": 14,
+        "bytes": 1608266
+      }
+    },
+    {
+      "key": "b",
+      "run": 2,
+      "metrics": {
+        "lcp": 376,
+        "cls": 0.0028663564913738527
+      },
+      "nav": {
+        "ttfb": 212.5,
+        "load": 414.5999999642372
+      },
+      "resources": {
+        "count": 14,
+        "bytes": 1608266
+      }
+    },
+    {
+      "key": "b",
+      "run": 3,
+      "metrics": {
+        "lcp": 172,
+        "cls": 0.0028663564913738527
+      },
+      "nav": {
+        "ttfb": 9.400000035762787,
+        "load": 151.5
+      },
+      "resources": {
+        "count": 14,
+        "bytes": 1608266
+      }
+    },
+    {
+      "key": "c",
+      "run": 1,
+      "metrics": {
+        "lcp": 152,
+        "cls": 0.002528659929962013
+      },
+      "nav": {
+        "ttfb": 12.399999976158142,
+        "load": 145.39999997615814
+      },
+      "resources": {
+        "count": 13,
+        "bytes": 1196634
+      }
+    },
+    {
+      "key": "c",
+      "run": 2,
+      "metrics": {
+        "lcp": 1028,
+        "cls": 0.002528659929962013
+      },
+      "nav": {
+        "ttfb": 879.5,
+        "load": 1017.9000000357628
+      },
+      "resources": {
+        "count": 13,
+        "bytes": 1196634
+      }
+    },
+    {
+      "key": "c",
+      "run": 3,
+      "metrics": {
+        "lcp": 1028,
+        "cls": 0.002528659929962013
+      },
+      "nav": {
+        "ttfb": 895.2000000476837,
+        "load": 1070.300000011921
+      },
+      "resources": {
+        "count": 13,
+        "bytes": 1196634
+      }
+    }
+  ]
+}
